@@ -1,0 +1,6204 @@
+commit 4c8a5eb25d5b7919aed9e06a6567e62b34a858ff
+Merge: e35a07e 50011d7
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 29 11:54:03 2022 -0500
+
+    FIX se ajusta validaciones de formulario CEAP
+    
+    FIX se ajusta validaciones de formulario CEAP
+
+commit 50011d77eb875b832be870c3251c060922e4688b
+Merge: 7b6af55 e35a07e
+Author: jc <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 29 11:48:26 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar into jcam
+
+commit 7b6af558c406177517721a28dfc7217cd46b7831
+Author: jc <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 29 11:45:23 2022 -0500
+
+    FIX se ajusta validaciones de formulario CEAP
+
+commit e35a07e135556971f26bb0e3c97ce32948b7f16c
+Merge: af3e5dc 5065655
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 29 11:45:10 2022 -0500
+
+    Merge pull request #102 from mramireza272/maam
+    
+    Corrección validación de carga de inmuebles
+
+commit af3e5dc0f2f19389168bc0a1c0363b1a6ebda3f6
+Merge: be18bc3 02f660b
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 29 11:37:29 2022 -0500
+
+    Merge pull request #101 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 02f660b4f5e062610909c986d28fc00898638aa3
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 29 11:37:02 2022 -0500
+
+    cambios
+
+commit 8121b50b85fd87a0f61c58d8ba6c2cff42fcbed2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 29 10:31:51 2022 -0500
+
+    pdf temporales bienpesca
+
+commit 50656559229272ae9127f18bfbb3e203b5b0932c
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Fri Apr 29 10:30:40 2022 -0500
+
+    Corrección validación de carga de inmuebles
+
+commit be18bc3432da352c322425daa528ed41726a01be
+Merge: 13e4902 9b77d74
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 29 10:18:29 2022 -0500
+
+    Merge pull request #100 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 9b77d74893a3c9bc16769408fd6332aef5a4ab46
+Merge: 74280da 13e4902
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 29 10:17:26 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 74280da1aa4b223bfcf53a63ebd5cde482884a33
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 29 10:17:13 2022 -0500
+
+    cambios
+
+commit 13e49029ea6881dc251245def198d4c402b25587
+Merge: f9db2e7 7a81cd9
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 29 09:57:07 2022 -0500
+
+    Merge pull request #99 from mramireza272/maam
+    
+    corrección Registro Leen
+
+commit 7a81cd96f7318ea267a41104c8a0caa5d9a3be1b
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Fri Apr 29 09:44:23 2022 -0500
+
+    corrección Registro Leen
+
+commit f9db2e7caecec104a6ba25fed752e5955da62212
+Merge: b0367bc 66dc9f7
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 29 07:04:32 2022 -0500
+
+    Merge pull request #98 from mramireza272/laad_leen
+    
+    Laad leen
+
+commit 66dc9f723505b8dc3882f24058de7b33ceba9187
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 22:13:04 2022 -0500
+
+    Evento asociado a user
+
+commit af4cc81706bfd03f2e4006029ac33846cc49ca9a
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 20:11:12 2022 -0500
+
+    Evento asociado a user
+
+commit cb952ccf778392f75141a5e7202771e7e9a549f1
+Merge: 48093b1 b0367bc
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 20:10:46 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad_leen
+
+commit 48093b10c0e15d052e34834b10c07727e10d970f
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 19:44:10 2022 -0500
+
+    Edit Full
+
+commit b0367bc9abd539bffb5431bcea26d696e2f384b9
+Merge: 541f3ef b9e199d
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 19:42:32 2022 -0500
+
+    Merge pull request #97 from mramireza272/mramerge
+    
+    cambios
+
+commit b9e199de9c8398cd6a41856b656719dde8cb0464
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 19:41:17 2022 -0500
+
+    cambios
+
+commit 541f3ef024b1ae14bed7b77abcf28af2735bff6f
+Merge: 3d37883 93db9d3
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 19:34:26 2022 -0500
+
+    Merge pull request #96 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 93db9d340d2b477bf11bbb716212467baddda24f
+Merge: 3b80126 3d37883
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 19:27:38 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into maam
+
+commit 3b80126bc5c04e2264e84274f876c250163d7345
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 19:24:53 2022 -0500
+
+    Validación LEen
+
+commit c0c063ba52a678c1c6e12066da7c62245015f679
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 19:24:14 2022 -0500
+
+    Validación Leen
+
+commit 22d7829b379328973d5bd908f999c7b1adfa10d3
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 18:56:23 2022 -0500
+
+    Validación de campos
+
+commit 24fada7e4f50738b88f07e4395882bc52f17b432
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 18:46:10 2022 -0500
+
+    Validación diagnostico de inmuebles
+
+commit 93202e877a8cc60c232d58b2d243dca93430b17b
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 18:24:09 2022 -0500
+
+    validación de servciios
+
+commit 1af8028c177dc94b607aa4a2c0f3ebc8ed4f52ea
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 18:10:14 2022 -0500
+
+    Validación de seguridad diagnostico Inmuebles
+
+commit 26df335cd78c0d7f41eeacdcd5ac87d39bac7902
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 18:03:21 2022 -0500
+
+    Validación Infraestructura
+
+commit 3d37883e730be31c8094bb2417642cfcf8ad78ce
+Merge: 9678b89 7a880c0
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:48:16 2022 -0500
+
+    Merge pull request #95 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 41619b0fc2388464a3fc369589dbe60e46fc99a4
+Merge: 0ea36e9 00b287d
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 17:47:03 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit 7a880c002592c6c3afebd7659ba5fa082e051b31
+Merge: 02cb2ce 9678b89
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 17:43:00 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 02cb2ce8ecebc56aff8f45357a312a73410a428a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 17:42:52 2022 -0500
+
+    ocultar programa microtandas
+
+commit 9678b894c2a8b18893a0d89d904f319bdb7e8030
+Merge: 9df2aeb c26bb9a
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:37:21 2022 -0500
+
+    Merge pull request #94 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 0ea36e9360b9ca69488e9b6c762a0fe94548aa37
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 17:31:31 2022 -0500
+
+    infraestructuras
+
+commit 3b9e68e6f8fc6f44639bb8985bc97c4450b4a7b8
+Merge: 00b287d 9df2aeb
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 17:31:29 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit c26bb9a13cd477c645f8c416e1dd1a5a7c76c673
+Merge: 79ac25e 9df2aeb
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 17:31:09 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad_leen
+
+commit 79ac25e7a611d35d4bdd8733ed52ede537b59591
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 17:30:38 2022 -0500
+
+    leen sin domicilio v3
+
+commit 9df2aebad5687bbf781e82dcdaff86f02df33529
+Merge: aab9cfb d3175ee
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:29:33 2022 -0500
+
+    Merge pull request #93 from mramireza272/mramerge
+    
+    Mramerge
+
+commit d3175ee1f0cab11c62d916ed8190298c6441fc29
+Merge: 08fe89c 02c3c44
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:28:59 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 02c3c446defa02e84beed47c24ea7a223bf91663
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 17:27:57 2022 -0500
+
+    FIX se ajusta form 3 CEAP
+
+commit 00b287d64355dfd137b1331a18d3ddaae145589f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 17:27:34 2022 -0500
+
+    ocultar programa microtandas
+
+commit 7fa1cff14ff13148f5980e7beb7872cdce01a315
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 17:25:30 2022 -0500
+
+    validación abastecimientos de agua
+
+commit aab9cfbf8a34f2a8ab99a73c6e175bac949fbb36
+Merge: 90023d5 08fe89c
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:25:10 2022 -0500
+
+    Merge pull request #92 from mramireza272/mramerge
+    
+    cambios
+
+commit 08fe89c33d539eb300164c3ec98ab7f8c57e679a
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:22:23 2022 -0500
+
+    cambios
+
+commit 90023d563a4af1747a589a98f561b6de48155e5b
+Merge: 7ba27e2 846d207
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:15:52 2022 -0500
+
+    Merge pull request #91 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 846d2079357d53037bb7c8a25596906bc9801e8b
+Merge: 61aab73 b48da75
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:15:19 2022 -0500
+
+    cambios
+
+commit b48da755493ebf114b9c76903372e035259a0752
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 17:07:15 2022 -0500
+
+    ocultar programa microtandas
+
+commit 61aab738df75525263c6949f935c92c17bda05e7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 17:04:18 2022 -0500
+
+    cambi
+
+commit 136fe847f6c46c14f63e1b3c58975f747188b406
+Merge: 463a306 4b6c552
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 16:55:38 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit 463a30689787dd57aa6ef82ee5d9e4e12c661a10
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 16:54:58 2022 -0500
+
+    abstecimiento
+
+commit 4b6c552e74eb3dd52aaf968076a87b6a21605292
+Merge: 66e2feb 26703af
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 16:54:51 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 26703af0415c1f0f5e0d54f4b9f41155646f5172
+Merge: 5df9763 9ce6894
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 16:53:47 2022 -0500
+
+    FIX se ajusta form 3 CEAP
+
+commit 66e2feb2f897d3015181f977c5ba561cbaa883ac
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 16:51:51 2022 -0500
+
+    ocultar programa microtandas
+
+commit 5df9763d42dc2f8d8339f1bfdd61b868c0ea31ea
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 16:48:59 2022 -0500
+
+    FIX form
+
+commit 9ce68948372da12737c3ad556eff280b533bbed6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 16:12:33 2022 -0500
+
+    ocultar programa microtandas
+
+commit c7a7f1fb1749f7f6de0d946c17d63ad2df149a33
+Merge: d02f13f ffe465f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 15:37:09 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 444b15c91cf9242b59dffa6207f399fc8382cbd3
+Merge: c740149 ffe465f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 14:57:24 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit ffe465fb296368426667a593a2c69c6946f7f536
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 14:54:58 2022 -0500
+
+    ocultar programa microtandas
+
+commit c740149d3a2ae5310ca3bb730cf053df3bd2f9d1
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 14:08:25 2022 -0500
+
+    guardado de imagenes y despliegue campos con SI/NO
+
+commit ec61a2b1c985d1f8c41260e7caf3086b4b60e09e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 13:20:29 2022 -0500
+
+    issues leen
+
+commit 2877d4dcfbbcb823704134cee11b6c2513bba8fa
+Merge: 7f80e50 b62b6ae
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 13:07:39 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit d02f13fdc6657e3b8eaf2302009511d69e004b68
+Merge: 7ba27e2 b62b6ae
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 13:01:53 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 7f80e503e8d091e7d3ce06797bdd78f1d96e491a
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 13:01:50 2022 -0500
+
+    VALIDACIÓN diagnostico
+
+commit b62b6ae407de4a6fc04c3ee0c07a9236b83559e5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 12:47:12 2022 -0500
+
+    issues leen
+
+commit 17613e590c46bd6f5350746c780ed413d7a530bd
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 12:46:36 2022 -0500
+
+    issues leen
+
+commit 428b34cb4219ea3984e8ff9877a50adbb6f98210
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 11:51:02 2022 -0500
+
+    Leen sin domicilio v3
+
+commit 01497c2d443036964d2e0955a3c8046b3c842fd1
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 11:33:07 2022 -0500
+
+    Validación Asamblea
+
+commit a1bb2abe8e524985abe4f94479097dc4386b1cfe
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 11:19:11 2022 -0500
+
+    validacion Leen corrección
+
+commit 7ba27e287f3149bfec46b335ac6b872d3e5d9c74
+Merge: ca5b312 6047559
+Author: Aldo Fernando Baltazar Lechuga <60363683+aldo-1998@users.noreply.github.com>
+Date:   Thu Apr 28 11:15:41 2022 -0500
+
+    Merge pull request #90 from mramireza272/bienestarafbl
+    
+    Bienestarafbl
+
+commit 653c1a95b0f7b531dc1b80b4f3b4f6f6ba1c1269
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 11:12:55 2022 -0500
+
+    Validación asamblea
+
+commit 6047559175ac92b51b397bcf10a19b0b593da8be
+Merge: ef47375 ca5b312
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 11:12:02 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit ef47375228dfc34020fee7f578b5d6113d55f649
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 11:11:29 2022 -0500
+
+    tabla ceap
+
+commit ca5b312e691ee5d8a36d0bf1f8c5ebe0a505f282
+Merge: 5687704 0142ebb
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 11:09:55 2022 -0500
+
+    Merge pull request #89 from mramireza272/laad_leen
+    
+    Leen sin domicilio 2
+
+commit 0142ebbc2f6a798881a164c50bb365f108dde03e
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 11:04:48 2022 -0500
+
+    Leen sin domicilio 2
+
+commit 568770424dc466f3676701d88596a45f7a8e8497
+Merge: 0a909b4 00547dc
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:47:29 2022 -0500
+
+    Merge pull request #88 from mramireza272/mramerge
+    
+    cambios issues
+
+commit 00547dcadda13d45a2daf7372418d2e1d6c1f210
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:46:54 2022 -0500
+
+    cambios issues
+
+commit 0a909b41ce3612708fe3b2f6e4998f53fed517ed
+Merge: 0332782 6e29838
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:39:24 2022 -0500
+
+    Merge pull request #87 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 6e298384801436a7d5dbfea78bde0a01160ee03c
+Merge: 459e2c9 0332782
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 08:31:44 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad_leen
+
+commit 033278259c6f8d3f97258f64166931cb00ef4a45
+Merge: 76600df 85a23c3
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:28:01 2022 -0500
+
+    Merge pull request #86 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 85a23c3f48072735b689d7e8d52d497549204ce2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:27:17 2022 -0500
+
+    cambios issues
+
+commit 459e2c93458a2f67445852b957c0fa9aa4c4b9c8
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 08:21:44 2022 -0500
+
+    Leen sin domicilio
+
+commit 434bc94bd76f43105f12674220191a5ecb7276f4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 08:04:57 2022 -0500
+
+    cambios
+
+commit 76600df970c16c934c25a4f8230ca7369985090c
+Merge: 1d1c76b 0bc2e30
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 06:16:58 2022 -0500
+
+    Merge pull request #85 from mramireza272/mramerge
+    
+    issue dd
+
+commit 0bc2e304458f48d025e0a6901892dd78f3012280
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 06:15:29 2022 -0500
+
+    issue dd
+
+commit 1d1c76b003c53df67afc7d668bd9cbbb9a137ffe
+Merge: 4966804 a5d92b2
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 05:03:41 2022 -0500
+
+    Merge pull request #84 from mramireza272/mramerge
+    
+    Mramerge
+
+commit a5d92b22da37229a619c663dbade9b53f43bab08
+Merge: e1b7900 21d7da5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 05:02:42 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 21d7da5787fc34b94e5de86c158a96ab030adb95
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 05:00:16 2022 -0500
+
+    tabla ceap
+
+commit 073a1932b96ab77580e80d3c8c2ad0d700ad1074
+Merge: 5d3ec35 ed9fb31
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 04:56:35 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 5d3ec35952b960ccd8b68b5b376ed6ec562b5ea5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 04:56:11 2022 -0500
+
+    tabla ceap
+
+commit 4966804256668b94e43b93a873bc2a65001826a0
+Merge: 4eb76f4 e1b7900
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:52:59 2022 -0500
+
+    Merge pull request #83 from mramireza272/mramerge
+    
+    Mramerge
+
+commit e1b7900243b2d8693373a70facf40630abc0cd39
+Merge: 71b1fd0 ed9fb31
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:52:16 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar into mramerge
+
+commit ed9fb31dc99934d3cd68fffaea41cf2ff143d1a7
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 04:50:59 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 4eb76f435b12a63454f288b6b8e8b671c580fad6
+Merge: d13c733 71b1fd0
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:39:03 2022 -0500
+
+    Merge pull request #82 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 0ae25a9d3fd3b4d0c0c3a78b01b9d2c484d65a76
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 04:38:24 2022 -0500
+
+    tabla ceap
+
+commit 71b1fd0ef3e9ae436771ddcdd84db97d1d1f006b
+Merge: ea7d974 0d913a4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:37:21 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit ea7d9748668e1d2f47afdd14c2cec8f94ab06f56
+Merge: 69c9765 0fc7f6f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:37:06 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 3feefbaae35e4a9779e2e097accca4c82ef3a000
+Merge: 0fc7f6f 69c9765
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 04:36:25 2022 -0500
+
+    Merge branch 'mramerge' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 0d913a4cdeaa466efb84f7bc2b16e3b1e2ac32aa
+Merge: 3414be2 69c9765
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 04:35:25 2022 -0500
+
+    Merge branch 'mramerge' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 0fc7f6f70fb3b3f79a78cfeaec520516e90ffe95
+Merge: b42b256 3414be2
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 04:33:59 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit b42b25609401bb51c94c050a9a873007c5d4e2c3
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 04:33:47 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 69c9765b3374f4edba556b52bb94b57fd9803066
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 04:32:55 2022 -0500
+
+    cambios
+
+commit 3414be28c050ea77ef5f04bba40925e51fb9fb56
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 04:14:46 2022 -0500
+
+    tabla ceap
+
+commit 12a24da80fbdb9378124466d234b635e343deb96
+Merge: c8cdc44 58bdb7a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 03:09:01 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit c8cdc444e949907e773b42606b66ff667b26eec8
+Merge: 454cfbc d13c733
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 03:08:43 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 8a1b8561e51590612e290c60a85efd192df7fd3f
+Merge: 58bdb7a d13c733
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 03:08:23 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit d13c73326c1844a02b632d57d985bd5cf0cb770d
+Merge: 5515ac3 324b50c
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 03:07:24 2022 -0500
+
+    Merge pull request #81 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 454cfbcc95ff99126220598d02d83d09b1b93c7a
+Merge: bf11925 5515ac3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 03:05:57 2022 -0500
+
+    cambios
+
+commit 58bdb7af011b833ccb0761e2c77b588f5dc2fcb6
+Merge: 9ee629f 5515ac3
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 03:03:13 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 9ee629f2988a2f92691c5121e9530db7a61cf432
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 03:01:20 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 324b50cefbf99466521a5d943a7aabb7bce5eeb9
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 02:55:09 2022 -0500
+
+    edit - mapa
+
+commit 45b4377cf9d1b135569543d56ad597bddf0fab6d
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 02:49:07 2022 -0500
+
+    edit - mapa
+
+commit bf119257acba206b160ca4bfc3b1d0cc3a0f8814
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 02:20:49 2022 -0500
+
+    programa leen
+
+commit 5515ac35577623c20beb0d5e5a5c2f5f543c280f
+Merge: 78366db 8b745a9
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Thu Apr 28 02:19:06 2022 -0500
+
+    Merge pull request #80 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 44309dbd39422d608ccd0bdec1649eaeb0640025
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 02:16:32 2022 -0500
+
+    merge mra 2
+
+commit b00d799eab25f505462e7d07b30fe4a16be9a2e9
+Merge: 4637283 8b745a9
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 02:12:11 2022 -0500
+
+    Merge branch 'mramerge' of https://github.com/mramireza272/bienestar into laad
+
+commit 46372839d17d789dfb6dfa36b0b2a34cb771b12c
+Author: Luis <baal_siul@hotmail.com>
+Date:   Thu Apr 28 02:11:25 2022 -0500
+
+    Edit
+
+commit 8b745a92b89f4045aa6c4ec163190010f2a8ea6e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 02:04:42 2022 -0500
+
+    merge ramas aldo, miguel, martin
+
+commit 98bfe11b68b92e936042b6c8a5eadf0eb9f9bc1d
+Merge: 1c332b5 d5dacb3
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 01:59:59 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit d5dacb3a3ffd5629052e11dd7ff3a35bda3e4711
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:58:48 2022 -0500
+
+    programa leen
+
+commit 0da1fc2d2cd9e00741675a6ecbe9e2983200d376
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:55:27 2022 -0500
+
+    modificación programa leen
+
+commit 1c332b5aef79c6302ec6506feb3c09b54f23eca7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 01:54:14 2022 -0500
+
+    cambio
+
+commit 8c1ef9840f13c1ca860f1f540f3b00a10965ef92
+Merge: 080ab0b ddb9502
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:49:00 2022 -0500
+
+    Merge branch 'maam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 080ab0bf3f94641d6d2f2c050b8921a5a2b98506
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:47:57 2022 -0500
+
+    modificación programa leen
+
+commit ddb9502499fbd690d3e3901ee17f5f443df01be2
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 01:43:55 2022 -0500
+
+    Actualiación conjunto Inmuebles
+
+commit 6aecf3e6da51f541e72397ce726afe9671fb8ea9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:39:48 2022 -0500
+
+    modificación programa leen
+
+commit 3ad54a0eb363f1b7fc6fb05fe1f970f8fdc222e8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:29:53 2022 -0500
+
+    modificación programa leen
+
+commit 26288f6b2c4e222aed4a2379c960249e22398f69
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 01:20:45 2022 -0500
+
+    modificación programa leen
+
+commit babc0646e369f365258dd9cad2d6a1febfd753e4
+Merge: 6c75b00 8c5ddd0
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 01:09:12 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit 6c75b007164796cb9aa75796c3763f8eded46f64
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 01:04:27 2022 -0500
+
+    vista mapa
+
+commit 8c5ddd0015533a68393246a8e8ac08ebead0d060
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:55:00 2022 -0500
+
+    modificación programa leen
+
+commit 90911c54305f07c3ad83632ac083bbd605ddb7d4
+Merge: 656674e 8c7f272
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 00:39:17 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 8c7f27219a1516ed5289d74b026083a6573a62a8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:35:25 2022 -0500
+
+    modificación programa leen
+
+commit 656674e0d614dbd579e55ea1e3d2978f2ae5ec88
+Merge: f626e1b 0219c50
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 00:32:53 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 0219c50942ce4e799a1b555f5e6eef493a215b78
+Merge: 5edbd6b 459116f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:28:29 2022 -0500
+
+    modificación programa leen
+
+commit fda1e226251aaa1545850de9f1da062515bac724
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:27:26 2022 -0500
+
+    Corrección mensajes
+
+commit f626e1bdbf00c118e24a2f04585226b1fc9256fb
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 28 00:26:12 2022 -0500
+
+    FIX se ajusta form seccion 3 CEAP
+
+commit 49758c59ebe1d9f13dc6d7d5233908f01151dfa0
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:25:20 2022 -0500
+
+    Validación imagens
+
+commit 82cb5761a989fe0946bb241d4b8a850084cbc918
+Merge: aefb379 dafe188
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:21:53 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit aefb379e1e021d433b8d45c6d52f339e89a7b896
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:21:01 2022 -0500
+
+    Validación leen
+
+commit 5edbd6b1c8af0486a990ed0daa0675546cc3a6f4
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:20:41 2022 -0500
+
+    modificación programa leen
+
+commit 459116ff09ca4383a13c17de3c48c7bffd956bef
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 28 00:19:05 2022 -0500
+
+    cambios
+
+commit dafe188c6188d7ec82f69e156c6cbffc30ecabd1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:17:41 2022 -0500
+
+    modificación programa leen
+
+commit e7d037e1b48c029a70e89db43e00c5eff0da79b6
+Merge: e81967d 354fb9f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:13:00 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit e81967da478ba7a45e3ab3699a2cfbcf7c0ee3e2
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:12:18 2022 -0500
+
+    Controller True sección 4
+
+commit 4fe48760452b2091bf100c6f3b057f8449f34367
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Thu Apr 28 00:05:47 2022 -0500
+
+    Validaciones de diagnostico
+
+commit 354fb9f03a7790e2beb1f8c7a51557c74f429456
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 28 00:03:18 2022 -0500
+
+    modificación programa leen
+
+commit 216d1ec0e4f9591310434e4ac9d4ad664a40c096
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 23:14:03 2022 -0500
+
+    modificación programa leen
+
+commit 67a2e1ed4cde884f33fdad4d16aa6e680ff463cc
+Merge: da2f977 130de07
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 23:13:00 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit da2f9776cc0bd1efa7139224d6808e5f93f06865
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 23:11:33 2022 -0500
+
+    Inicando validación diagnostico
+
+commit 8f24a5adbe99c8f4010d29e2116dd8710d3c3505
+Merge: 690b180 130de07
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 23:10:50 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 690b180dbf491fdadfba5a7ffa18e73e90c5aacb
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 23:09:08 2022 -0500
+
+    cambios
+
+commit 130de0742569d7c195078ad5e98298168873a7dd
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 23:08:51 2022 -0500
+
+    modificación programa leen
+
+commit 8cdec495880056e865c903f6ef7f9c592497b573
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 22:46:12 2022 -0500
+
+    Registro Leen, creación inmueble
+
+commit 31fe94383a9699e16714a0c8a72dc5a96c67fa68
+Merge: 81c79ff 63f8d70
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 27 21:50:37 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 63f8d708e8d50c4dde1d65129fc6474371b4ccbd
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 20:27:12 2022 -0500
+
+    programa leen
+
+commit 3dc7c30fde154c5254fa92f4578e1e57d1fca3cc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 20:26:18 2022 -0500
+
+    programa leen
+
+commit 43c33d09a78b8221e3044a2831bebd7faaa8a6d8
+Merge: 3243f5e d529903
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 19:27:02 2022 -0500
+
+    Merge branch 'maam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 3243f5e2cd676b34ac3260d2c831314147012ab8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 19:26:20 2022 -0500
+
+    programa leen
+
+commit d529903a9b2b3927144467130cc621a00ce2960c
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 19:25:40 2022 -0500
+
+    inmuebles con cp actualizado
+
+commit 81c79ffa8a3523f609dc7225e03d75c1fba1332c
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 18:55:52 2022 -0500
+
+    FIX
+
+commit 4901a6ca3027999ad3f37dd078bff504348ac1bf
+Merge: 0176cea 78366db
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 18:36:55 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into maam
+
+commit 78366db6e32e45c7cc4f95451f3fc5f8b5f03d8f
+Merge: d45b5d4 bd8f0f0
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Wed Apr 27 17:44:50 2022 -0500
+
+    Merge pull request #79 from mramireza272/laad
+    
+    Cambios vista
+
+commit bd8f0f01f01d99adcf507068b8f0f953763dab34
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 17:41:05 2022 -0500
+
+    Cambios vista
+
+commit d39a7074352889647b4de9c6d6ddc91675768feb
+Merge: 01606d7 0176cea
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 17:36:25 2022 -0500
+
+    FIX
+
+commit d45b5d40d8b318472b371938ec9ffdd75acfbb78
+Merge: 259f9dc c690951
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Wed Apr 27 17:32:37 2022 -0500
+
+    Merge pull request #78 from mramireza272/laad
+    
+    Cambios vista
+
+commit c69095144b7304a7d85efc4ea396c7676f9d06d5
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 17:30:19 2022 -0500
+
+    Cambios vista
+
+commit 01606d7a5a3db46eddd0c9de8b80ca6eba7ca8c9
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 17:28:45 2022 -0500
+
+    FIX se ajusta formularion de CEAP para LEEN
+
+commit 0176cea9da1510a47ae0dcb4b1760782e6880a74
+Merge: 5e0bcdf c5d4c0e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 17:07:08 2022 -0500
+
+    programa leen
+
+commit 259f9dc51dcbc08d3225617830f2d7bbc1f01116
+Merge: 63e66fc f96ce87
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Wed Apr 27 17:05:33 2022 -0500
+
+    Merge pull request #77 from mramireza272/laad
+    
+    Laad
+
+commit f96ce8744063c941835d62a4191af6eeb7cb3572
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 16:58:09 2022 -0500
+
+    Cambios leen
+
+commit 5e0bcdf292687dfdd645c8d68dbb90ae656d47d7
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 16:54:41 2022 -0500
+
+    Guardado Condicion Inmueble
+
+commit a97acb0b701fa5088683d3307244372d726a4521
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 16:42:15 2022 -0500
+
+    FIX se ajusta formularion de CEAP para LEEN
+
+commit c5d4c0ed7007e5a7b7c305752e2afc41430c2ce4
+Merge: 6f30bda c5021e7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 16:17:02 2022 -0500
+
+    cambios
+
+commit 95f7373b9ebcdea1d8f145a34e69846307a65cd3
+Merge: cb6e9ec 0e9187f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 16:09:48 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit cb6e9ecb0de53ab0ca89b32d3e85638506e4b6d7
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 16:07:49 2022 -0500
+
+    Registos datos Leen
+
+commit 0e9187f5fff0cad0560ecca259471f137db7ff2d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 16:02:28 2022 -0500
+
+    programa leen
+
+commit ed5b43bd74e47ee23666a1f1f4639868e47626ea
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 15:30:27 2022 -0500
+
+    Cambios vista
+
+commit 1ad666066e628630cc299da5f2c36b96961b9dcf
+Merge: ad6fb66 18fa5f7
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 15:29:42 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into maam
+
+commit ad6fb662bf982113d3688c67119049aeaecacbc4
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 15:28:47 2022 -0500
+
+    Guardado diagnostico
+
+commit 18fa5f7d5385351e947daa149836b05a305d8b45
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 15:27:06 2022 -0500
+
+    programa leen
+
+commit 6db4cac60fe03620544022155db57aba3d80f52e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 15:15:14 2022 -0500
+
+    programa leen
+
+commit 6f30bdaf7801d35029c65fa41304cc6494dc7227
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 15:01:25 2022 -0500
+
+    cambios
+
+commit c5021e78cd4d2250e46db54df6adea64b7ba5450
+Merge: 0e72282 4638bf2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 14:53:20 2022 -0500
+
+    programa leen
+
+commit 0e72282f8f732e4cb11ab7f5ef69fb3d119cac12
+Merge: 46677f5 63e66fc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 14:17:11 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 46677f5f9da017fb079076545844b362b1416276
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 14:16:50 2022 -0500
+
+    programa leen
+
+commit 4638bf2f1d6a03ba8aed3e3c64d5f26ca7067068
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 14:04:30 2022 -0500
+
+    Se agrega un campo hidden res_coord
+    Aquí es donde el servicio escribe el JSON
+
+commit 80d06455edc2f75258f388eb3cf565a3a23cfa49
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 13:37:30 2022 -0500
+
+    Actualización Inmuebles SQL
+
+commit 47e3b06de9b1f25a51358968f472dfff0acebdeb
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 13:33:19 2022 -0500
+
+    Validaciones v1
+
+commit 63e66fcce61c4732fcab88611c855d47a1a24045
+Merge: fb16196 4b8448f
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 27 13:09:43 2022 -0500
+
+    Merge pull request #76 from mramireza272/jcam
+    
+    Jcam
+
+commit 4b8448fb2b58631b5bb40d87a3752dff9c70a84b
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 13:07:37 2022 -0500
+
+    Se ajusta LEEN > CEAP form
+
+commit 8938f86b4e16125ee3c0d8cbba128f170ae6c917
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 12:33:52 2022 -0500
+
+    Refactorización $nvoreg a $registro
+
+commit beed1e107ff8ac235d4f72cca280cb0b86d05e08
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 12:04:54 2022 -0500
+
+    Anexo de formulario para leen carga de Inmuebles
+
+commit c912db6df45700f693b0effecada977fbbee756a
+Merge: fb16196 7a7c8a9
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 11:10:58 2022 -0500
+
+    Merge branch 'mramerge' of github.com:mramireza272/bienestar into jcam
+
+commit fb161967ab4ec8e2550ce6677c84c209c23449f5
+Merge: a518235 14006a1
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 27 11:06:10 2022 -0500
+
+    Merge pull request #75 from mramireza272/pdf_masivo
+    
+    FIX se ajusta pdf para impresion masiva
+
+commit 14006a17ddd50de991ce6e29d9cc351bb8a75201
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 11:00:53 2022 -0500
+
+    FIX se ajusta pdf para impresion masiva
+
+commit f969848c64c11eb5a41053ea4ee083b387d4e3ef
+Merge: bab5339 a518235
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 10:54:59 2022 -0500
+
+    Merge branch 'maam' of https://github.com/mramireza272/bienestar into maam
+
+commit 7a7c8a981a2d00c0f67513a018012d976a865848
+Merge: 1711f9b a518235
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 10:41:55 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit a5182358aa1910203cbb50a88165b770e86f7b69
+Merge: 25e56c1 3478930
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 27 10:23:06 2022 -0500
+
+    Merge pull request #74 from mramireza272/pdf_masivo
+    
+    Pdf masivo
+
+commit 3478930d819b65a1be14b45347bcea5d3435d336
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Wed Apr 27 10:21:32 2022 -0500
+
+    FIX se ajusta pdf para impresion masiva
+
+commit 25e56c15a4f093e685fcda505b01fac24d92e5d1
+Merge: e99bcaf f2486f0
+Author: Aldo Fernando Baltazar Lechuga <60363683+aldo-1998@users.noreply.github.com>
+Date:   Wed Apr 27 10:21:19 2022 -0500
+
+    Merge pull request #73 from mramireza272/bienestarafbl
+    
+    Bienestarafbl
+
+commit bab5339049a93c5e15994d4382f082cf181adb2f
+Merge: 14ddcbd f2486f0
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 10:15:33 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 14ddcbdd9c8b9d2c93d2e8db203f40ac6d89f4e4
+Merge: c88b933 e99bcaf
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Wed Apr 27 10:14:07 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 1711f9b88e35b1cd8e69fff8abe872d2afabe01c
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 27 10:09:44 2022 -0500
+
+    cambios
+
+commit f2486f03fcf7bb19f8e192b4872e2d92bbb0e380
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 09:01:15 2022 -0500
+
+    programa leen
+
+commit 4454d61e5f1b40edb043c8819261c13293f6abb5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 08:55:59 2022 -0500
+
+    programa leen
+
+commit c42cead979d5c0cde33a3b7922c7090afb5ffffc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 08:29:31 2022 -0500
+
+    programa leen
+
+commit 361608616da168c9d80c13c0add0a16475a7b9bf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 08:06:00 2022 -0500
+
+    programa leen
+
+commit a4efdf4ff8edd5f0b70bd2e338887f036f5778b1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 07:04:36 2022 -0500
+
+    programa leen
+
+commit 801b42cf70d0ccc4a3d6972e42e7255e06b455d2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 06:56:23 2022 -0500
+
+    programa leen
+
+commit e9857b74794b06097dcf1fc784cb399e5b7bc47d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 06:40:16 2022 -0500
+
+    programa leen
+
+commit 065e4198d96c2380ab9b5cc5442d32662c336498
+Merge: 2dd1b88 e99bcaf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 06:22:33 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 2dd1b88b90d226b19de61485b988f65556d2c3e6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 06:22:01 2022 -0500
+
+    programa leen
+
+commit e99bcaf74a4e7c27d687cfdc960959c7e06f18b2
+Merge: 578a474 1653892
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Wed Apr 27 06:20:53 2022 -0500
+
+    Merge pull request #72 from mramireza272/laad
+    
+    Laad
+
+commit 10f66f0410547add4060b19ff9276617966c93a2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 04:58:15 2022 -0500
+
+    programa leen
+
+commit e62c3fda3d749d47a6867a7382ddc7ae7fb09e76
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 03:09:40 2022 -0500
+
+    programa leen
+
+commit 8952cb64fdebe0237d6315e786e1741c36320b87
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 03:01:49 2022 -0500
+
+    programa leen
+
+commit 1653892f708aaf609dd711051965d6f9db999ba0
+Author: Luis <baal_siul@hotmail.com>
+Date:   Wed Apr 27 02:13:04 2022 -0500
+
+    Programacion con eliminar
+
+commit c1b5a9c27f708c55e6d7304eb0ca1add99c5fd98
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 27 01:19:14 2022 -0500
+
+    programa leen
+
+commit b952337af411c455400a99420324e079fe132f1c
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 27 00:19:43 2022 -0500
+
+    FIX se ajusta PDF para impresión masiva
+
+commit d843876fdd24794d5608c2a382cfa527298b6f4e
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 26 23:54:18 2022 -0500
+
+    FIX se ajusta PDF para impresión masiva
+
+commit cb90503610895b9ff31ab7c2801e8ec0bba5faaf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 23:50:13 2022 -0500
+
+    programa leen
+
+commit 8caef4cbac5504f50f454838126b45ff7c7633dd
+Author: Luis <baal_siul@hotmail.com>
+Date:   Tue Apr 26 23:32:42 2022 -0500
+
+    Programacion mapa bienpesca hasta agregar
+
+commit 7e9d1f038c534809c1b2a51c7da72b800381da62
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 23:26:34 2022 -0500
+
+    programa leen
+
+commit efce589aa53d9c9433c81067e028518ecfd3bf2e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 22:53:32 2022 -0500
+
+    issues bienpesca
+
+commit cf6ed55ee16144db1b69a60e80eea0b98bc6253b
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Tue Apr 26 19:58:55 2022 -0500
+
+    FIX se ajusta pdf masivo
+
+commit 21002b637cbe7e65ded0793ec0a944f92ed56f11
+Merge: c8b2011 c5c25a1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 18:18:44 2022 -0500
+
+    programa leen
+
+commit c8b2011c81bf00a54753223890819f39dd903696
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 18:14:23 2022 -0500
+
+    programa leen
+
+commit c3094537bc6f0f857ef8f5d0f4ce51831b7325d8
+Merge: f80f001 c19b4a7
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 17:50:52 2022 -0500
+
+    programa leen
+
+commit c19b4a7acd8883db199f294ff70b9700f8ffca3b
+Merge: 6f35e7a c88b933
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 26 17:49:43 2022 -0500
+
+    Merge branch 'mike_dev' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 6f35e7ab8a2dfd00cdb03cb3a4c07930bebae37e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 26 17:49:15 2022 -0500
+
+    cambios
+
+commit f80f0016aadac3dcf5aecffa9b9910efb7e5f00c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 17:47:24 2022 -0500
+
+    programa leen
+
+commit c5c25a1b319e1f3d82bcfd6605216b6345054427
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Tue Apr 26 16:58:43 2022 -0500
+
+    ADD se crea primera versión de wizard para modulo LEEN
+
+commit c88b93347b583e0eca59218b368b6971e732b085
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Tue Apr 26 15:31:28 2022 -0500
+
+    Se agrega catalogo tipo de vialidad
+
+commit 281681753ed7a59ca2139a7fe4c78433178f87a8
+Merge: d1b99e5 86b4102
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 26 14:09:55 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit d1b99e599e9dcec383cf95c2803cb590fa7d6eb6
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 26 14:09:40 2022 -0500
+
+    cambios
+
+commit 86b4102167968a938af462c9319747b531668174
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 26 14:08:08 2022 -0500
+
+    programa leen
+
+commit f96e4bd48a5453d1c7019be791ad830a2cb5890f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Tue Apr 26 10:48:18 2022 -0500
+
+    Limpieza de campos al inicio
+
+commit 6761073d680d5dc8701be31caf24ca6c6fe5e4b9
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Tue Apr 26 10:40:20 2022 -0500
+
+    Orden cambios asentamientos
+
+commit 2874f1eac6d049b425880d91a5d6830ffde9f395
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Tue Apr 26 10:38:06 2022 -0500
+
+    Borrado cambios de municipio
+
+commit 5b8f50fe0f38c91ed3041bdda4408682e7b58e7b
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Tue Apr 26 10:29:39 2022 -0500
+
+    Actualización eliminación llave id_domicilio, cambio por id
+
+commit c3f98f7aa878bdc0ef71bec05c441691dfcaf9df
+Merge: 65b3bae 578a474
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 22:50:53 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 65b3baeb1d193b53fe77e826b655de7a0266b475
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 22:49:42 2022 -0500
+
+    validación de guardado estado inmueble
+
+commit 578a4744a4e6a67265a9a913cf657409d1d84688
+Merge: c820ba9 318c47c
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:57:16 2022 -0500
+
+    Merge pull request #71 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 318c47ce84bf1f7e7fc565a42194c90a4ad3cc61
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 20:45:08 2022 -0500
+
+    migracion leen_evento
+
+commit fde3b4131acb8183862cc4fa6afa04eab2c9ff0c
+Merge: e75ef36 c820ba9
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 20:39:19 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad
+
+commit c820ba9ccf11f4f1f30106bf3750ff112737a133
+Merge: 0f6eab8 5c5e4c2
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:34:38 2022 -0500
+
+    Merge pull request #70 from mramireza272/mramerge
+    
+    Mramerge
+
+commit e75ef3651885977c38868dd229e5b73edf526f98
+Merge: b7c383b 0f6eab8
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 20:33:13 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad
+
+commit b7c383b2cf55f481278cd4f386de2243684b152c
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 20:32:42 2022 -0500
+
+    editar municipios asociados
+
+commit 5c5e4c2a1e665efd576ded644bc6595e756a8eba
+Merge: d8f3284 b7560cd
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:30:21 2022 -0500
+
+    Merge branch 'mike_dev' of https://github.com/mramireza272/bienestar into mramerge
+
+commit d8f32841b3aac744f3cb61fb931bf1d172f1fc0f
+Merge: 0f6eab8 c6c96d9
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:29:53 2022 -0500
+
+    Merge branch 'mra' of https://github.com/mramireza272/bienestar into mramerge
+
+commit b7560cd21e91265149555da65ed8a95eb017d461
+Merge: 27275b4 0f6eab8
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 20:26:18 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 27275b40ed3db81a06cce7c2e92aed866b4aca8f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 20:25:33 2022 -0500
+
+    Carga de campos de domicilio
+
+commit c6c96d914c25bd10b2bc7dcbc84c2249f298d1ca
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:22:15 2022 -0500
+
+    cambios
+
+commit f27507a833699ceb5ba3226ae32ed96803ad472f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 20:19:10 2022 -0500
+
+    cambios
+
+commit 0f6eab84f4f10751bd1b1f579c2c5c9d01d2bf30
+Merge: 8ef4c3f be45300
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 18:25:25 2022 -0500
+
+    pdf_masivo
+    
+    Pdf masivo
+
+commit be453009243dfb1b419ab1b233a8b0a0a8a27bbc
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 18:24:23 2022 -0500
+
+    Se ajusta formato PDF para version de impresión masiva
+
+commit 6d2be15dd3ba06a75e6adafdc8334f24da9f53b9
+Merge: a996d6a 8ef4c3f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 18:18:45 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into pdf_masivo
+
+commit a996d6a0a63d4f50c61a00e493f68f3fc928cc65
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 18:18:27 2022 -0500
+
+    Se ajusta formato PDF para version de impresión masiva
+
+commit 86d38017facf001594bf817c86304879ae41e6fc
+Merge: 513377e 8ef4c3f
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 17:50:37 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 804c3c2f4674f941d35d9115f25cb7a662680380
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 17:46:45 2022 -0500
+
+    Programacion leen
+
+commit 513377ee4c51a15e9fec5ccbba15fe3ca3c823d6
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 17:44:14 2022 -0500
+
+    Se cambio la llave del FA al id del servidor
+
+commit 8ef4c3fa52fe33f1de2bb7794aaf70473ab8eb3a
+Merge: e0d4598 0cb4b3c
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 17:38:43 2022 -0500
+
+    Merge pull request #67 from mramireza272/mramerge
+    
+    cambios
+
+commit 0cb4b3c828cd6377d7534209efb30efd4b599703
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 17:37:49 2022 -0500
+
+    cambios
+
+commit d612be726ca313087e5547287b9e949e5348d7a7
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 16:31:56 2022 -0500
+
+    Actualiazción Captura Inmueble
+
+commit 9dc1ce1f31871aeef1bc00e6709403e44b966d69
+Merge: a804f09 e0d4598
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 15:57:25 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad
+
+commit a804f095553d773f6a7d349dc0ba2c20172f23a5
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 15:56:58 2022 -0500
+
+    Servicio mapa
+
+commit fc4d9d419cc46ccc7cea75755db0b30d7dbe05ab
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 14:44:05 2022 -0500
+
+    Corrección actualizado de Inmueble
+
+commit e0d459813a7ea9c3805257e1cfee209918d63275
+Merge: 49ac0c3 7532cec
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 12:24:22 2022 -0500
+
+    Merge pull request #66 from mramireza272/mramerge
+    
+    Mramerge
+
+commit 49ac0c3af56017dff0e460c916641fcf7c89c5b0
+Merge: 967aa7e 30a890e
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 12:24:07 2022 -0500
+
+    Merge pull request #65 from mramireza272/mra
+    
+    cambios
+
+commit 7532cec0f10c22adeffe03c7d4830c80e1f211d4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 12:21:59 2022 -0500
+
+    cambios
+
+commit 9a01cdead1a8014d9c4d6fce4c6b0df1d0ddd150
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 12:00:25 2022 -0500
+
+    Programacion index
+
+commit 59752f340ae24be1450c2dfd48d9d1e42c7ae441
+Merge: 30a890e 1ad16c8
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 11:37:18 2022 -0500
+
+    Merge branch 'mike_dev' of https://github.com/mramireza272/bienestar into mramerge
+
+commit 30a890ecd715c613eb386749369d9be26dc82d2e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 11:35:43 2022 -0500
+
+    cambios
+
+commit 1ad16c82e59beed66aa0cdbf404b965e48648a4e
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 11:25:20 2022 -0500
+
+    Seeder domicilio
+
+commit 0bcbb02d8f524ed617935e8b871d1f63badea255
+Merge: 997778f 967aa7e
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 09:28:45 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into pdf_masivo
+
+commit 967aa7ed93aa3505ea9d32dcd4d65a75962b5454
+Merge: 4f74096 527883a
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 09:24:49 2022 -0500
+
+    Merge pull request #64 from mramireza272/bienestarafbl
+    
+    quitar duplicados programación
+
+commit 527883ab578ebda6c432791835287132021e3f1a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 09:21:27 2022 -0500
+
+    quitar duplicados programación
+
+commit 997778f797a3a46873741867c3b0da309a904367
+Merge: ae8e33b 4f74096
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 08:55:03 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into pdf_masivo
+
+commit 4f740964132f90c82a3b29fa23be29e9a083ae37
+Merge: 8483dba abf1f22
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 08:54:22 2022 -0500
+
+    Merge pull request #63 from mramireza272/bienestarafbl
+    
+    Bienestarafbl
+
+commit abf1f22283f95a3432aedad847e1d8da941bdfcf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:50:12 2022 -0500
+
+    quitar duplicados programación
+
+commit 707b895f5bea95e1731dd5aaed86129c62a9345c
+Merge: 6ce8dc4 5e09a47
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:42:22 2022 -0500
+
+    Merge branch 'mike_dev' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 6ce8dc4535215b5c18659727a858c60d37acfeb5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:38:27 2022 -0500
+
+    quitar duplicados programación
+
+commit 5e09a475f78c910f20a468478e0008ccbbd3533a
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 08:37:54 2022 -0500
+
+    Actualización rutasm seeders
+
+commit b941f2295cf0fef6966f50a4134f65bdf79b88cd
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:37:37 2022 -0500
+
+    quitar duplicados programación
+
+commit 70f6771c66db318c8caab07dc1de1c48e7bbd478
+Merge: eb1e8fa 669d0d5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:25:42 2022 -0500
+
+    Merge branch 'laad' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit eb1e8fa3520ab3d096da23f0475a4af97bef9603
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 08:25:31 2022 -0500
+
+    index de eventos
+
+commit ae8e33bdc813a0c97f05e2802895edeba950ddfd
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 07:20:23 2022 -0500
+
+    Se agrerga nueva version para impresion de PDF masivo
+
+commit 1b129fdef00520fcefd0ffc2a3635ab7b0113311
+Merge: 43a62ce 8483dba
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 07:11:13 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 306f0e29235774518aa7b283fe20623e5bece474
+Merge: 11fe56d 8483dba
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 07:09:48 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit c3641985e5e4c1baab50901d3d6dc70816a3616c
+Merge: 3ffff71 8483dba
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 07:06:38 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit 3ffff7105c17880d945ed239cfb1ee4b352ab622
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 06:26:35 2022 -0500
+
+    cambio redirección
+
+commit 669d0d5dfac9cdbd802a171b1bab8a6c4d8d4a6d
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 04:51:59 2022 -0500
+
+    Programacion v3.5 guardar ok
+
+commit 8483dbab1d2b9c7af3c5c8f844c8d22ff7915aa0
+Merge: c7757f2 2d293b9
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 04:46:09 2022 -0500
+
+    Merge pull request #62 from mramireza272/mramerge
+    
+    cambios
+
+commit 2d293b9cd153a0b4ef6fdff244e4b69989b24a35
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 04:45:02 2022 -0500
+
+    cambios
+
+commit 11fe56d624b166afa57188063221061162d57f81
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 04:13:27 2022 -0500
+
+    index de eventos
+
+commit 867a7469b4330eb9f19e92e0d72de1fe03d16562
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 04:08:57 2022 -0500
+
+    index de eventos
+
+commit 06aed107e3317b95b478c989f31a946c3b7ab5e9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 04:08:22 2022 -0500
+
+    index de eventos
+
+commit a0b97823ee0d5565804bb43b8e3bfccd3f9c49a0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 04:03:05 2022 -0500
+
+    index de eventos
+
+commit c7757f2e57a6a6f95e347f4ebb5c2f5492445b3c
+Merge: f720e9a fe802a1
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 03:54:02 2022 -0500
+
+    Merge pull request #61 from mramireza272/mramerge
+    
+    Mramerge
+
+commit fe802a1ae1267f5437bd67f6e1fe8d8d21a3139b
+Merge: ef9aedc f720e9a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:50:29 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit ef9aedc2f8e7f38ba5fc6d5fc4a67721af07f4f0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:48:59 2022 -0500
+
+    index de eventos
+
+commit f720e9af36b517d1723aeeab49475d9b243d6556
+Merge: f28eb8c f44bfe5
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 03:44:14 2022 -0500
+
+    Merge pull request #60 from mramireza272/mra
+    
+    cambios
+
+commit f44bfe5103b8c03035b4ea84898b0c3a7b729eda
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 03:42:24 2022 -0500
+
+    cambios
+
+commit dc1f7f3967eaf736ed595de07df7934867ea530b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:35:07 2022 -0500
+
+    index de eventos
+
+commit 99ae593a8efa804a4d3696eb1e49864426eb4e49
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:33:00 2022 -0500
+
+    index de eventos
+
+commit d94807d466ec3eb9a4a389a77ad2983cb4b95204
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:28:19 2022 -0500
+
+    index de eventos
+
+commit b0008da2b4b72067645732fcbdb6406471f183df
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:25:29 2022 -0500
+
+    index de eventos
+
+commit cfcb539ea461fd1311c93ad0d7b89dc454b0ed88
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:22:22 2022 -0500
+
+    index de eventos
+
+commit d04dce7038668b6175a31cf55bfb532e12da5497
+Merge: 3492d95 a313ab7
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:08:21 2022 -0500
+
+    Merge branch 'laad' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 3492d95ef8a2fed55b4bc1ee29a4475d1abf8b3a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 03:08:12 2022 -0500
+
+    index de eventos
+
+commit a313ab70af88dab53178a9596487891bd3d13e08
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 03:07:52 2022 -0500
+
+    Programacion v3.4
+
+commit 65a3e8a355a9bad561239b947609eaa957b48554
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 02:45:58 2022 -0500
+
+    index de eventos
+
+commit 6c1359771bdf2a21c4e2adb874e15b7951c92177
+Merge: f8aec10 0b63d9c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 02:42:27 2022 -0500
+
+    Merge branch 'laad' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit f8aec109e4577079793dbf0aa481f3bf403c35e9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 02:42:11 2022 -0500
+
+    index de eventos
+
+commit 0b63d9c214551782e37015e1e2726ae5a109d5b5
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 02:41:04 2022 -0500
+
+    Programacion v3.2
+
+commit a586be0940a98e4aa904da69c2a7957c9adadcdd
+Merge: 16a4db4 039c3eb
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 02:40:37 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into laad
+
+commit 039c3eb64d1004145e88d89d3dd8cb2747b42341
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 02:39:13 2022 -0500
+
+    index de eventos
+
+commit 16a4db4ed635729dac7a5bc6baa5febefd2bd4a1
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 02:28:02 2022 -0500
+
+    Programacion v3.1
+
+commit 42e2106ac341ffe6994ffaa2fd9c4d7e84092a97
+Merge: fb521bd f28eb8c
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 02:03:11 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit fb521bd14a24eefc97e3d98a04b4e0fe0d6acf96
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 02:01:17 2022 -0500
+
+    Controlador indice
+
+commit f28eb8ccae3ce3780817e5b1ebd34449d1f83063
+Merge: c99a5a0 821da9d
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:44:40 2022 -0500
+
+    Merge pull request #59 from mramireza272/mramerge
+    
+    Mramerge se juntan las ramas de leen y programación
+
+commit 821da9d292da0790f6a8cfad8d7c89d31c070b53
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:43:03 2022 -0500
+
+    merge
+
+commit 86c5d328da3ba09ab5dc77c55e20771145d41f25
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:32:58 2022 -0500
+
+    cambios
+
+commit 46a12a846eba3e7db34fd198ef09e4c651ccad48
+Merge: c457df4 d87437e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:28:01 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar into mramerge
+
+commit c457df4cd11b7092ea701b27d71389777bc90e8c
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:27:46 2022 -0500
+
+    cambios
+
+commit d87437ec734dc20ddf06bf0db8112e2ea41aa650
+Merge: e669928 c6eac69
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 01:21:58 2022 -0500
+
+    Merge branch 'afblmike' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit e66992877724e6a3d610e518bcb69c0a49d7ced9
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 01:20:44 2022 -0500
+
+    captura inmueble
+
+commit c99a5a08751f12e8a6b67d12dd716325d4f510a4
+Merge: 0e1e361 40d06c4
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:20:12 2022 -0500
+
+    Merge pull request #58 from mramireza272/mra
+    
+    Mra
+
+commit 40d06c4ce78ae82cea06f1f8cf1e2cda70a1f5ae
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:19:24 2022 -0500
+
+    cambios
+
+commit c6eac690d6e0198e3932637aeb889a6c73ddce83
+Merge: 3c6190e 591da11
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:15:53 2022 -0500
+
+    Merge branch 'afbllaad' of https://github.com/mramireza272/bienestar_microtandas into afblmike
+
+commit 3c6190ea6bbcd94eec5fdd61a8e7adfba6d9c149
+Merge: a3e637e 5866d64
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:12:31 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar_microtandas into afblmike
+
+commit 43a62ce81dead287e9351079ebccb6b08bb2563a
+Merge: 0e1e361 4942f94
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 25 01:08:56 2022 -0500
+
+    Merge branch 'mra' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 5866d64a34bf1a0600213b522a9c506d3ba96c77
+Merge: 9a2cd72 4942f94
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:08:37 2022 -0500
+
+    Merge branch 'mra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 4942f94dadb05981e29e5543e236c770ad570864
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 25 01:07:29 2022 -0500
+
+    issues bien pesca form, show, historico
+
+commit 73e91fb33b712ab749e68015403fca916caa330a
+Merge: 591da11 0e1e361
+Author: Luis <baal_siul@hotmail.com>
+Date:   Mon Apr 25 01:07:23 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad
+
+commit 9a2cd720cb3820d4b0bf5463f387ed5bf3e7f172
+Merge: b649b4b 0e1e361
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:05:38 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 591da119bf802b49ae86ea951d1e1a9c5dc047a1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:04:14 2022 -0500
+
+    programación de eventos
+
+commit a59a51cc91295e684225294b51f204818c0c7fcb
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 25 01:00:34 2022 -0500
+
+    programación de eventos
+
+commit 01c329483b7c8b82a1e73bc90050a5584b504064
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Mon Apr 25 00:37:54 2022 -0500
+
+    vista carga de inmuebles
+
+commit 0e1e361c5a958481b8a72bdd6d2cdeb62002a3fd
+Merge: bc6a90e 18da9b0
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 22:46:47 2022 -0500
+
+    Merge pull request #57 from mramireza272/mra
+    
+    cambios
+
+commit 18da9b0023e2f1ffd62eb645e4a3775198eb38b8
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 22:44:29 2022 -0500
+
+    cambios
+
+commit 62e952d554a4d90a6059852dc2ca0e21270d1744
+Author: Luis <baal_siul@hotmail.com>
+Date:   Sun Apr 24 22:41:32 2022 -0500
+
+    Programacion v3.1
+
+commit bc6a90e8e44162141c99ed5f6f48ceb4e1dc6787
+Merge: 483021f 3975ecc
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 22:33:17 2022 -0500
+
+    Merge pull request #56 from mramireza272/mra
+    
+    Mra
+
+commit 3975ecc83c9560e972cb0942287cad5ef6c63e6d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 22:31:46 2022 -0500
+
+    seeder carga masiva usuarios
+
+commit ed68848155d25623a09ab9047ca04bce9b528b90
+Merge: 231151f 30bcc63
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 21:57:52 2022 -0500
+
+    Merge branch 'mra' of https://github.com/mramireza272/bienestar into mra
+
+commit 30bcc63a8921d884beaee876b0d7e7d4c432627f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 21:56:33 2022 -0500
+
+    FIRST se manda primera versión de pdf masivo por estados
+
+commit 22d9922ec266153f62ad03b5147eb97879fdc41a
+Merge: c7d95c6 a3e637e
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 21:46:28 2022 -0500
+
+    Merge branch 'afblmike' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit c7d95c620f1c1577ecef1f4baa40d52fb964e286
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 21:45:27 2022 -0500
+
+    wizard edo inmueble
+
+commit a3e637e4505ba4da0fab097de1b4684db4d031ef
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 21:37:46 2022 -0500
+
+    cambios
+
+commit 9cce06c0ecac5659e7ec978bf8d525c08d3263d3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 21:27:16 2022 -0500
+
+    cambios
+
+commit b649b4bd3cefb8b8e9dfe2da73c55e874bf32936
+Merge: 80a9264 483021f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 21:11:43 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 231151f6528bd74512ac69236de1d43a0413dea8
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 20:56:24 2022 -0500
+
+    cambios
+
+commit 3e26cbb79bb7c1a83311d78923cd72e3e1673ecc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 20:55:05 2022 -0500
+
+    cambios
+
+commit 36514a586dd46159c4f1b5e872c206e6e587e159
+Merge: 32d5a1a 483021f
+Author: Luis <baal_siul@hotmail.com>
+Date:   Sun Apr 24 20:41:36 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into laad
+
+commit 32d5a1af248bc626b7d4c362fa52f6cd57a94395
+Author: Luis <baal_siul@hotmail.com>
+Date:   Sun Apr 24 20:40:31 2022 -0500
+
+    Prog
+
+commit 0d76f602b79d465c93145c60bcf9e1ca875b421f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 20:21:26 2022 -0500
+
+    cambios
+
+commit c05c34041c1c29f130e79a080518a68e77b03034
+Merge: bf095ed 045d418
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 19:56:45 2022 -0500
+
+    cambios
+
+commit 045d41830edf4b54792881289dcc425088fc2ff3
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 19:51:04 2022 -0500
+
+    Se remuve espacio de línea
+
+commit 8079ac887bce4638bc203b31f91dd9723b8b91ac
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 19:45:30 2022 -0500
+
+    Carga estado inmueble
+
+commit bf095edba5b9e742b05e60dff99d32ea111d5035
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 18:59:12 2022 -0500
+
+    cargar municipios asignados
+
+commit c7d1c9dbe71b2f208ee075a4eb5c78e72e69dd40
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 18:58:30 2022 -0500
+
+    cargar municipios asignados
+
+commit 8292497ddf54af6b829cfb73686efdf62fb7ac63
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 18:54:01 2022 -0500
+
+    Captura estado de inmueble
+    Listas de archivos
+
+commit 589162af6f2ec2656ff94c81bdd3fe0c4d2803b3
+Merge: 846b302 483021f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 18:13:13 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 846b3025cc742d49fd4a5d263a74168a66a544f8
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 18:12:30 2022 -0500
+
+    FIX acuse
+
+commit a4ca79e9ca9017ecfd9e317cf5c7e525ec93b402
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 18:05:12 2022 -0500
+
+    cargar municipios asignados
+
+commit 08a39bf4c10fe9453850f4322c30b59c099b2b9d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 18:03:14 2022 -0500
+
+    cargar municipios asignados
+
+commit 483021fb5a5952a0c66b99da6dbc2d583717c48a
+Merge: 1c2c94b dcc7ae2
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 17:54:13 2022 -0500
+
+    Merge pull request #55 from mramireza272/mra
+    
+    cambios
+
+commit dcc7ae229bbb5ec6f72c4efab491eb2ab27675a1
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 17:53:31 2022 -0500
+
+    cambios
+
+commit bf49b2e4befd77c624933eefccbad5329fbc16ea
+Merge: 80a9264 3be1457
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 16:09:08 2022 -0500
+
+    Merge branch 'laad' of https://github.com/mramireza272/bienestar_microtandas into afbllaad
+
+commit 3be145742308ce1ef9e90f5bbcf02e077572bc7f
+Author: Luis <baal_siul@hotmail.com>
+Date:   Sun Apr 24 16:07:32 2022 -0500
+
+    Programacion v3
+
+commit 1c2c94b2ea6c31419da45aa8ce91841139bab51c
+Merge: 8ddbdf7 876318d
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 12:47:37 2022 -0500
+
+    Merge pull request #54 from mramireza272/mra
+    
+    pdf full
+
+commit 876318d8c0019df5d6afd212908cea651cd67f4b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 12:46:19 2022 -0500
+
+    pdf full
+
+commit a0d2ea39a24586600893eb70165033f6feb48efc
+Author: Luis <baal_siul@hotmail.com>
+Date:   Sun Apr 24 12:36:14 2022 -0500
+
+    Programacion v2
+
+commit 80a9264ce483722aca9676469b876a4fbf5ac190
+Merge: e32bb44 8ddbdf7
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 12:29:46 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 8ddbdf7fdddf43a36927bafa8c938e2b11660033
+Merge: 197140a 08896fe
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 11:38:10 2022 -0500
+
+    Merge pull request #53 from mramireza272/mra
+    
+    cambios
+
+commit 08896fec389db1ed162680c1e96f95c999af65c5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 11:37:21 2022 -0500
+
+    cambios
+
+commit fd38894c65788fa09be150c72124c8a69b2b1189
+Merge: d5a897a e32bb44
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 10:38:38 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit d5a897af5ba2c8b4661a37ee8655962ef4228aea
+Merge: 96c0bb9 197140a
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 10:38:18 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit e32bb44627f9fc64af690f0470a6d8273c03ebcf
+Merge: ad14f09 197140a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 10:17:19 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit ad14f09d03c0cd58e8642b7e001cd8a856a9ea60
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 10:14:14 2022 -0500
+
+    bienpesca generación zip
+
+commit 90e08876826dee6a94355fc1740e6096f99dff86
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 09:43:14 2022 -0500
+
+    actualiación nombres formularios
+
+commit a8fa760ee9121aae4a6f90985dfa1cac42248686
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 09:37:03 2022 -0500
+
+    Implementación mapa carga inmueble
+
+commit 197140ad0da6d1a31cd7ca46268cd40fb481df7d
+Merge: 297479e ccdec06
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 09:21:11 2022 -0500
+
+    Merge pull request #52 from mramireza272/mra
+    
+    cambios
+
+commit ccdec06ff8bee3a23a420aa74b0f0714c518479e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 09:20:38 2022 -0500
+
+    cambios
+
+commit fa32a83ea48408120936697e31454b391d5228f3
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 09:06:52 2022 -0500
+
+    cambios
+
+commit 297479e59888570d96a855ec8f33cb0a7edc1eda
+Merge: 78dde7b 72224c9
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 08:45:25 2022 -0500
+
+    Merge pull request #51 from mramireza272/mra
+    
+    cambios
+
+commit 72224c9652748e42e924ff7b81590a4933179200
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 08:44:35 2022 -0500
+
+    cambios
+
+commit 78dde7b4e538317a723ad09f2c281f1b1193f3d2
+Merge: 17eb2c4 57e8b72
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 08:42:28 2022 -0500
+
+    Merge pull request #50 from mramireza272/mra
+    
+    cambios
+
+commit 57e8b72ae064d4bc05d78e756c347c2e11c51f53
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 08:41:28 2022 -0500
+
+    cambios
+
+commit 17eb2c4937d9754e26aa9ee12a5583dde5d22d62
+Merge: 40e2f71 f257732
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 07:52:33 2022 -0500
+
+    Merge pull request #49 from mramireza272/mra
+    
+    Mra
+
+commit f25773216c217ec2215ef25ad120ab91a72ebf0d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 07:49:33 2022 -0500
+
+    cambios
+
+commit 1b34734435d763da528744a8a21b9e452faea07c
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 07:47:35 2022 -0500
+
+    sin sqls
+
+commit 40e2f715ecff34d5fe79729f95df5930556b19ee
+Merge: fe083ac cce4cb3
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 07:45:44 2022 -0500
+
+    Merge pull request #48 from mramireza272/mra
+    
+    cambios
+
+commit cce4cb328dd802129a5da2740790d518d7408fd7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 07:44:50 2022 -0500
+
+    cambios
+
+commit a228840d2decd17078d484b147c655632ac39dd6
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 04:05:51 2022 -0500
+
+    Diagnostico inmueble y finalizado captura inmuebke
+
+commit c875cac28731b558478d3b261f8fcf6b4696fcc0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 24 03:23:27 2022 -0500
+
+    bienpesca generación zip
+
+commit 96c0bb9a5e9129cbff01d43a8ebac7c728d65202
+Merge: 8b5b167 bee2c79
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 24 02:19:40 2022 -0500
+
+    FIX acuse
+
+commit 8d4a95f62c4f96978247a4d9f28243eb381a205c
+Merge: c525dc3 8e78340
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 00:40:43 2022 -0500
+
+    Merge branch 'main_bienestar' of https://github.com/mramireza272/bienestar into mike_dev
+
+commit fe083acd27e253ab36eec6ce90e226e8397fb8c9
+Merge: 8e78340 f14eafc
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sun Apr 24 00:38:45 2022 -0500
+
+    Merge pull request #47 from mramireza272/mra
+    
+    Mra
+
+commit f14eafcc2d24e51c349d1d0bd4b6d71ba006be05
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 24 00:37:42 2022 -0500
+
+    cambios
+
+commit c525dc3c9ba3b90226c2f71c13ae9b7897decb2a
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Sun Apr 24 00:34:35 2022 -0500
+
+    vista Carga Inmueble
+
+commit bee2c793c9edbd644a7cabb1c24e7dcee2f20de3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 23:01:44 2022 -0500
+
+    bienpesca generación zip
+
+commit 9c096c7ab81c64a02d559ef71ff6919172b2a9b2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 23:00:46 2022 -0500
+
+    bienpesca generación zip
+
+commit ae61861989d6e6ff6eb38275af26cabff0cfd0d9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 22:15:01 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 86ba94a5f73ff9b4170b345c05fa1001ebcc1ee5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 21:52:54 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 9aac74f4b0ca9f4a14a5b882e1ff96f0a13fa169
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 21:52:08 2022 -0500
+
+    bienpesca generación zip
+
+commit 1f4d1270df9ce0d755cdc35189779678f6adcb53
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 21:44:00 2022 -0500
+
+    bienpesca generación zip
+
+commit 8e7834004cdf5e7ae5bd0259cb821a888f8401c7
+Merge: 0b3150a 81c9bbc
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Sat Apr 23 21:41:40 2022 -0500
+
+    Merge pull request #46 from mramireza272/mra
+    
+    Mra
+
+commit 81c9bbc2ed5cff293fc35baa6c2f0f450bd26b80
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sat Apr 23 21:32:15 2022 -0500
+
+    cambios
+
+commit d011b9319cd64db258db6a4b7af388f9992d1c73
+Merge: 2d18e5e 977bf50
+Author: Estefania Carreño <estefania_carreno@hacienda.gob.mx>
+Date:   Sat Apr 23 21:22:03 2022 -0500
+
+    merge rama aldo y estefi
+
+commit 977bf50288088e450933791411026b99612b7b47
+Merge: 712e83a 0b3150a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 21:14:13 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 8b5b167891cc091643f7aa32bd1786ed1f6dfe64
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 21:08:17 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit 712e83ae50770bc45d70c27acde00ffb72fd54fc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 20:59:29 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 0b3150aaf0e78ce057c9bb37ca04ef4d163f6885
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sat Apr 23 20:59:02 2022 -0500
+
+    Add sql file
+
+commit 985ca742849d4c29fb4a409e78e234f9c83dad16
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sat Apr 23 20:56:55 2022 -0500
+
+    carga de info bienestar
+
+commit 2970ff5d517e0aa175bcc34cf5ad699a1d80552f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 20:42:04 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 15e614704b0be02242b54085c82e173628f622d0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 20:39:49 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 2d18e5e5577fc966fc8a4c303f77b4f990f5b51c
+Author: Estefania Carreño <estefania_carreno@hacienda.gob.mx>
+Date:   Sat Apr 23 20:10:13 2022 -0500
+
+    menu y show
+
+commit b6204ae0be0c8034600b4628d3f204aaf5cbdeb4
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 20:07:53 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 65d70b4b941460787ed5dbabef35f9830285a16f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 20:03:35 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 4be66bba891a7e30d90e9a0a9b531c64f04cc772
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 19:59:47 2022 -0500
+
+    descarga de zip bienpesca
+
+commit d212aeac32e6ba703d2ba77d67f5a0b2d206d099
+Merge: 50286b4 8e06584
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sat Apr 23 19:14:51 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into tobienestarmra
+
+commit 50286b40e68a7655dde31636d9281768b6eb491a
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sat Apr 23 19:09:03 2022 -0500
+
+    cambios
+
+commit bd4c962d3439282bab74dd8e672ddff30afc77a1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 18:30:45 2022 -0500
+
+    descarga de zip bienpesca
+
+commit edf9e472cd3e7ea6cd4a88e34d384494009fe16d
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 17:46:50 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit 893a0d7cb99c61695f18cc8796b6b36730dd2258
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 15:00:13 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit a30709c207b48d05b34a65bfbf57a185c02848e2
+Merge: 3342d6c bfb9468
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 13:46:17 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 3342d6c8f3530ef56399dcf8a6a37ae56c259f77
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 13:46:12 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit bfb9468e2a5423f7a321040678a5fcfe12c28323
+Merge: 1543b80 2bcbc78
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 13:41:47 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 1543b80ef1d34ba8fc9f3c82aaa161911260d6ec
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 13:41:41 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 2bcbc788be644fd2f641e5bf9dff2e1948e347a2
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 13:31:02 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit a99ec8ea7a6d5f10dd774302fd2a268a6f0e03e0
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 13:25:35 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit 24fdc03b4df44fbeabad808d3c39ec240898d6e0
+Merge: 02882a3 1f71853
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 12:42:43 2022 -0500
+
+    Merge branch 'jcam' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 02882a3b6d34d37b266d58c58a006defe540c214
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sat Apr 23 12:42:35 2022 -0500
+
+    descarga de zip bienpesca
+
+commit 1f71853cd32c2b17334a891d2fae3b2a6ce54a69
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 12:40:28 2022 -0500
+
+    FIX se ajusta formato PDF bienpesca
+
+commit 8e06584d377bf2fa08820afda49d8ba035b7289f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sat Apr 23 10:46:44 2022 -0500
+
+    Se crea primera version de PDF para bienpesca
+
+commit dff4013bee67a426b58ecbde47f7c9fe08f31da6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 23:07:44 2022 -0500
+
+    integración bienpesca
+
+commit 1b6015e2922e5878a7f0c4cf031b9e0d8fc89e8b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 23:03:48 2022 -0500
+
+    integración bienpesca
+
+commit 9145416fb6e7c835a9541ffa376ec6d0ce805ea6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 22:58:06 2022 -0500
+
+    integración bienpesca
+
+commit 27fc2b2d6c739ce49f255097933ae263ed3f7350
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 22:23:24 2022 -0500
+
+    integración bienpesca
+
+commit eccd5dd8b88d8e34895a29e3da361efef131a6f3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 21:44:38 2022 -0500
+
+    integración bienpesca
+
+commit 43f0bbcb8226eb8c6dc517c8aa7fdbd380946122
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 21:36:36 2022 -0500
+
+    integración bienpesca
+
+commit 999ed143fd4c249b258e11006019f8a1bf46b8f4
+Merge: 0eb30e0 3283424
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 21:30:05 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 3283424f59d81b2e848f2d9e59e15641e6334b1d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 21:29:52 2022 -0500
+
+    cambios
+
+commit 0eb30e07597fc004f2f21737ea13c50dc3311827
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 21:15:02 2022 -0500
+
+    integración bienpesca
+
+commit 5a74ddd1c06eb1bcc917650d421763d6cd74016a
+Merge: f344a0a 5a954c6
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 21:14:32 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar_microtandas into tobienestarmra
+
+commit f344a0a85acbceca6b6092a8e0874389852578c6
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 21:14:08 2022 -0500
+
+    show
+
+commit c33d2e22b87a1f1c4ba94b0b520d9b86e65251aa
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Fri Apr 22 21:12:57 2022 -0500
+
+    Captura Estado inmueble datos
+
+commit 5a954c65ce08f3d9cc693fa85c1010c93010fc63
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 21:04:49 2022 -0500
+
+    integración bienpesca
+
+commit e46eab21aae914f25ccd0d4df92c6996fc3baf1b
+Merge: 951d44c 3e98571
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 21:01:48 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar_microtandas into tobienestarmra
+
+commit 951d44c27065482b7df26ea9a67e25368d374f7f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 21:01:40 2022 -0500
+
+    cambios
+
+commit 3e985715998a5c72610878c8541ade6ec15c25cc
+Merge: 2d05f3d 5cdc3dc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:46:22 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 2d05f3da0691993de7709cffa25b52a4d1852aa6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:45:37 2022 -0500
+
+    integración bienpesca
+
+commit 5cdc3dcdad74b07f13a5529c27e794120abc3cd3
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:42:25 2022 -0500
+
+    RENAME migracion registr_bienpesca
+
+commit e80b4c42a12ab68e7c3dbf8a96c525dc477aa99e
+Merge: 2639a93 6e0e72b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:36:26 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 2639a936ad674d8cb5eb0351120aa53aeaf3aefd
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:36:11 2022 -0500
+
+    integración bienpesca
+
+commit 6e0e72b58797a6c1cc1f16dcd2a06f2724cf3747
+Merge: f7660fe a892bd7
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:30:35 2022 -0500
+
+    FIX se resuelven conflictos
+
+commit f7660fea22d11976597579408173c3b23c1bba64
+Merge: 85701da 88fc9ac
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:28:01 2022 -0500
+
+    Merge branch 'tobienestarmra' of github.com:mramireza272/bienestar_microtandas into tobienestarmra
+
+commit 85701da03ab8d739ebd62877c925418fc61adb6b
+Merge: 2481f2c 774d0e0
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:26:19 2022 -0500
+
+    Merge branch 'estefi' of github.com:mramireza272/bienestar_microtandas into tobienestarmra
+
+commit 2481f2ca862e36b77df51079d1ff39b15d820fb2
+Merge: 6fa5b06 f822250
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:25:51 2022 -0500
+
+    FIX jcam
+
+commit a892bd71ffc665a8459db55f897b1063d31d28f0
+Merge: a00a520 88fc9ac
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:25:25 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 88fc9acdc9fece95e56ffa7799d0f727e8ecfa85
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 20:24:48 2022 -0500
+
+    cambios
+
+commit a00a520d8220a8791213c3c38acdb501f3bc9a3f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:24:40 2022 -0500
+
+    integración bienpesca
+
+commit 895d2243d7c5907106c629860c37eca0763a018d
+Merge: 63070cc f822250
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 20:13:20 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar_microtandas into tobienestarmra
+
+commit 63070cc568ade53ca6f25289199c6be3f5ab42ab
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 20:13:00 2022 -0500
+
+    cambios
+
+commit 6fa5b06882356d2bf4588d723afd906308a1bc05
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 20:12:22 2022 -0500
+
+    Se agrega campo a la seccion 3 DATOS DEL PESCADOR
+
+commit 774d0e0dbfb2e92d74b8ed4f6718631655539481
+Merge: fd7f92b 0f9589c
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Fri Apr 22 20:02:38 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into estefi
+
+commit f822250b702c216761aeab168b6a6ff1c5fc8ef2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 20:01:45 2022 -0500
+
+    integración bienpesca
+
+commit 0f9589c0d478e3e5674f9267bbb7a9e3646a31c5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 19:59:57 2022 -0500
+
+    show bienpesca
+
+commit fd7f92be012145d2d0c7134d901a2e832ff10e63
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Fri Apr 22 19:56:45 2022 -0500
+
+    logos
+
+commit c587098b9447986829f0b81a2ac59fb6010d9748
+Author: Miguel Alanis <miguel.alanis@bienestar.gob.mx>
+Date:   Fri Apr 22 19:46:24 2022 -0500
+
+    Vista Captura Inmueble
+
+commit 024764d64bd3481cb66273b170411262145841a8
+Merge: eed76f0 34b1d60
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 19:21:56 2022 -0500
+
+    Merge branch 'bienestarafbl' of https://github.com/mramireza272/bienestar_microtandas into tobienestarmra
+
+commit eed76f066e90ff07552f9d572fbc070f7523533a
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 19:21:41 2022 -0500
+
+    cambios
+
+commit 34b1d602388d4d1c69b71b162df38f81941e57ec
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 19:09:45 2022 -0500
+
+    integración bienpesca
+
+commit 7cc867b8f580aadc6cb0c62691b58803a9da1913
+Merge: 1545179 8c3c149
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 22 18:04:41 2022 -0500
+
+    Merge pull request #45 from mramireza272/tobienestarmra
+    
+    Tobienestarmra
+
+commit 8c3c1494b822212d488418507396cc45e303897c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 16:17:52 2022 -0500
+
+    integración bienpesca
+
+commit ebda5c98192524fea994e4dc66cf0d2c87ccabd8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 16:12:39 2022 -0500
+
+    integración bienpesca
+
+commit 44bd419a9ec16eab840569df9486226f74cda6f7
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 16:09:16 2022 -0500
+
+    integración bienpesca
+
+commit 38ec8baa69a69685188045151b2731d8d679d796
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 16:00:35 2022 -0500
+
+    integración bienpesca
+
+commit 6983fe89563277184e0109cdf03c0f7fe6eabaa5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 15:49:41 2022 -0500
+
+    integración bienpesca
+
+commit b627d9f2d461d3afb125e289c8bf2bfbfc90c4bb
+Merge: d6c9ec8 7ae2ed1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 15:23:11 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit d6c9ec8807ea50b6c37002343c15a15044da5b73
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 15:22:42 2022 -0500
+
+    integración bienpesca
+
+commit 7ae2ed10aa45bd26985a814d0cb7b1442ac931bc
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 15:21:37 2022 -0500
+
+    menu
+
+commit 8b6f027685a997036577cefb48a40ea621aa091e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 14:21:36 2022 -0500
+
+    integración bienpesca
+
+commit 5669226c889c0cd3b0bc1a410503b29ee6181df6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 14:15:10 2022 -0500
+
+    integración bienpesca
+
+commit 195ef265fd7fbf19c554bf8063f82bae996a1bc2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 14:04:13 2022 -0500
+
+    integración bienpesca
+
+commit c8d0ccbc03c12b5335dec0a9273018f6c0d1470c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 14:02:51 2022 -0500
+
+    integración bienpesca
+
+commit ac9245ef4c5b6f975f481554eec7157b1bcdf1e5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 13:29:04 2022 -0500
+
+    integración bienpesca
+
+commit 9480004a5ae93ab1c5132dd31f976dd60b44dab6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 13:23:25 2022 -0500
+
+    integración bienpesca
+
+commit 3d462c9fa735f5d55cc6152f009544486389f60e
+Merge: 7f20589 bf9adda
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 13:03:23 2022 -0500
+
+    Merge branch 'tobienestarmra' of https://github.com/mramireza272/bienestar_microtandas into bienestarafbl
+
+commit 7f205898094962f1bf7b11341761f123699eba76
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 13:02:59 2022 -0500
+
+    integración bienpesca
+
+commit bf9adda5d32b40f2ba45f6a16c2f083e2c234ecc
+Merge: d8f3f5c e31ced7
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 12:56:51 2022 -0500
+
+    Merge branch 'bienestarafbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit d8f3f5cfd1d0129a3ebb7b1db61fce656830e4e6
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 12:56:23 2022 -0500
+
+    Se ajusta seeders de BIENPESCA
+
+commit e31ced72021d9844934ede62c579421b81688c9a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 12:32:52 2022 -0500
+
+    integración bienpesca
+
+commit 29bc54ea3e32dbc07c91691afc86d55be9dd8a6c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 11:43:13 2022 -0500
+
+    integración bienpesca
+
+commit cd7ede7ecee43118012db13713f1732820430825
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 22 11:24:15 2022 -0500
+
+    integración bienpesca
+
+commit b9ccf6e2b9b03f5f1bb568d5806946585ee09548
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 10:53:01 2022 -0500
+
+    cambios
+
+commit 88d5fe4387e7a3649416e9d05d45633dabd743c9
+Merge: f9a3d6f 304fb17
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 10:48:21 2022 -0500
+
+    cambios
+
+commit f9a3d6fc146bf7885e3c94f785a0faf0ddaebb1f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 10:47:47 2022 -0500
+
+    cambios
+
+commit 304fb175783d80198ed7512a0947d3e42913e9e9
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 10:22:44 2022 -0500
+
+    FIRST version bienpesca se agregan migraciones
+
+commit 6282cc90e457cccb14a0c0ba028becf643c51e89
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 10:05:58 2022 -0500
+
+    FIRST version bienpesca
+
+commit ad0618cd4a618cb1bc5f052c7d77ef5c9b3e18f9
+Merge: 1545179 633ba8f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 22 09:03:12 2022 -0500
+
+    Merge branch 'tobienestarmra' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 633ba8ffb1fc5b11df6162f15aaebb1c25060b10
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 08:59:14 2022 -0500
+
+    cambios
+
+commit 1545179040521277f04b1f0c054100e513b1c0e8
+Merge: ef97e64 cd4af5a
+Author: Martin Ramirez Aboytes <mramireza272@gmail.com>
+Date:   Fri Apr 22 01:23:55 2022 -0500
+
+    Merge pull request #44 from mramireza272/tobienestarmra
+    
+    Tobienestarmra
+
+commit cd4af5a0d1d7f61b51d31a32a95eeb6d117c03c5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 01:22:33 2022 -0500
+
+    cambios usuarios agregar programas crud usuario
+
+commit 7cc7e096a64f7280f081c159bbb04597c79f3c29
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 01:20:40 2022 -0500
+
+    cambios
+
+commit 046eaaea27bcb283aa6003143b5e865aab152880
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 01:03:33 2022 -0500
+
+    cambios usuarios agregar programas crud usuario
+
+commit a67f21a9e24bdd8a9a7cfdfdf0182afd5fc103d4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 22 00:14:18 2022 -0500
+
+    cambios
+
+commit 2bac53a13d9ad0fed5fdf4e09fb658b9be5e1e0a
+Merge: 0e641d9 a922d57
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 23:58:08 2022 -0500
+
+    cambios
+
+commit 0e641d9f5927aac3ac16c4436dacb60dafbc8ccc
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 23:55:24 2022 -0500
+
+    cambios
+
+commit a922d573bc081c910e5129de6ed8e458e8cdb8e2
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 21 23:47:02 2022 -0500
+
+    FIX seeders
+
+commit 386518f2e852ba67b716fc10e8702969b5cb8cb6
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 23:01:29 2022 -0500
+
+    cambios
+
+commit 126a0198b8973dd750a4a2d92659d0aa1bf1d500
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:41:09 2022 -0500
+
+    cambios
+
+commit 64e19decf18147957b13819b59af7759eeb685d1
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:38:55 2022 -0500
+
+    cambios
+
+commit 9bc37704d31a448019871d417522fdb875d40624
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:32:21 2022 -0500
+
+    cambios
+
+commit 7b22a9fa5c13f7808452577c6bdeb5fa22d90e37
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:27:29 2022 -0500
+
+    cambios
+
+commit 4dd68bd0b617f46f8650e341831c8ff701899c24
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:20:52 2022 -0500
+
+    cambios
+
+commit a04bac86861f3ab71f97291b897dbc74bdb93172
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:20:29 2022 -0500
+
+    cambios
+
+commit 1d90908d02c1c8c42f959604d8db547f6985babb
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 22:19:50 2022 -0500
+
+    cambios
+
+commit b14df69ba285d029cd83cc394619de8626f1267b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 21 21:01:27 2022 -0500
+
+    cambios
+
+commit ef97e647f9effc0139ddb29530b7982b0e647409
+Merge: 1521f9b 5e88e7a
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 21 12:36:12 2022 -0500
+
+    Merge pull request #43 from mramireza272/jcam
+    
+    FIX se ajusta archivo de email
+
+commit 5e88e7af529379633869bfc3c39e0043274a6323
+Author: Invitado DGGPB20 <invitado.dggpb20@bienestar.gob.mx>
+Date:   Thu Apr 21 12:34:25 2022 -0500
+
+    FIX se ajusta archivo de email
+
+commit 1521f9bb4695ae93310ae1ba932b969a26fa157e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 19 15:29:22 2022 -0500
+
+    cambios
+
+commit 1e8a0bb37ac01dd92c1a18e427405fea794536eb
+Merge: 004c040 b75a09e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 19 09:52:27 2022 -0500
+
+    Merge branch 'jcam'
+
+commit b75a09e90d1e26f0b2721dd6a5b218f00d0c7631
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 19 09:50:07 2022 -0500
+
+    FIX se ajusta seccion 2 SHOW
+
+commit 004c0401b2c8b1def28956a9a01544314ef63330
+Merge: 70179c4 19d4b76
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 18 17:33:00 2022 -0500
+
+    Merge pull request #42 from mramireza272/jcam
+    
+    Jcam
+
+commit 19d4b7687ff9b315371519ce678d37252293a467
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Mon Apr 18 17:32:18 2022 -0500
+
+    FIX se ajusta llamado de catalogo
+
+commit 05d9d9118dbd80a49d43a35e2f8f2757e96df19b
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Mon Apr 18 17:31:32 2022 -0500
+
+    FIX se ajusta llamado de catalogo
+
+commit 70179c43ef2e6c8f0657a46ba2c73666782f5d93
+Merge: 1d1cc7e 2808eb3
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 18 11:59:07 2022 -0500
+
+    Merge pull request #41 from mramireza272/jcam
+    
+    FIX se ajustan varialbes para cambio de contraseña
+
+commit 2808eb3dc1f9dbc51ad1a4cf99e450717ceae938
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Mon Apr 18 11:57:49 2022 -0500
+
+    FIX se ajustan varialbes para cambio de contraseña
+
+commit 1d1cc7eb58c98bba100da52143a6ff84f62c76b2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Mon Apr 18 09:43:39 2022 -0500
+
+    cambios
+
+commit f99f991d50b9b2167b6d7ff7cdddfa8f2b47820b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 14 11:56:54 2022 -0500
+
+    cambios
+
+commit 2c4ec0e603f51250da12aa00d8ba06ed6e709338
+Merge: 940054e 06fb0e4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 14 09:49:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 940054ed3879b6f9287ba43642d2191c3745a599
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 14 09:48:58 2022 -0500
+
+    cambios
+
+commit 06fb0e401a9f7dedcdcca51ed876770d8ae69c31
+Merge: 8d27a00 e1e3930
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 13 13:02:02 2022 -0500
+
+    Merge pull request #40 from mramireza272/jcam
+    
+    FIX se ajusta validacion de archivos en wizard
+
+commit e1e393093924bb1b40e3b14bd8bc404f28586f7e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 13 12:54:35 2022 -0500
+
+    FIX se ajusta validacion de archivos en wizard
+
+commit 8d27a00f3219664dc9fc240729951bd3592a6be2
+Merge: b2fea2f 7ddcacd
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 19:44:22 2022 -0500
+
+    Merge pull request #39 from mramireza272/jcam
+    
+    FIX se agrega porcentaje de tasa de interés
+
+commit 7ddcacd9a12e77638b85bc0cfbe33fb6852604b2
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 19:40:31 2022 -0500
+
+    FIX se agrega porcentaje de tasa de interés
+
+commit b2fea2f8e35287d77fa9be3dc67cc3259264e298
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 19:28:30 2022 -0500
+
+    cambios
+
+commit 455c4d662a242055d0fff378e3fb5048358bbd9b
+Merge: 9d67434 f47b4e5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 19:14:26 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 9d67434645bd3b30757153c2a995e721ad858baf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 19:14:21 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit f47b4e55e2adcab7ed5de2892fd4ef9d190dae76
+Merge: b304a61 f1cb6b8
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 19:13:33 2022 -0500
+
+    Merge pull request #38 from mramireza272/jcam
+    
+    FIX se ajusta seccion 3 CP
+
+commit f1cb6b8688962cc6e72476aedacf4fe410e2e984
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 19:13:00 2022 -0500
+
+    FIX se ajusta seccion 3 CP
+
+commit b304a6165ca9b716f307c264c6ad8d00c81c8305
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 19:01:54 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit d8ccce84a01e7c0f9545bbc0f3d6f4c2d0e4418e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 18:11:46 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit 4887b7e0c20c74aa713c7bebba3f98ab15c41a83
+Merge: 0841126 1e567e0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 17:59:46 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 1e567e0005cba23f7a503c7e87e8ecc5d0f35853
+Merge: d77ecbe 98c79a9
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 17:58:54 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit d77ecbe06595709f42f9e10fe1e0caeb28367fc4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 17:58:46 2022 -0500
+
+    cambio
+
+commit 08411260201f2aa1f2f9e00c07a80b7d4408b173
+Merge: fcbbada 98c79a9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 17:54:01 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit fcbbadae153535410bf324b5ddb8afa731386fc3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 17:53:55 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit 98c79a9aaab2fc947797c6edb45ab85f862148cd
+Merge: 0c2c3c7 acd40e0
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 17:50:17 2022 -0500
+
+    Merge pull request #37 from mramireza272/jcam
+    
+    Jcam
+
+commit acd40e01a61df7d9d98a0bd2778d4f2c73b33c33
+Merge: 357b6db 0c2c3c7
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 17:49:35 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 357b6db29c8435e7236f12cd69e5b376c534f4a9
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 17:49:19 2022 -0500
+
+    FIX se ajusta formulario 3 información del negocio - SUBSECUENTE
+
+commit 0c2c3c76dbc8ad881a6a83ab7291c213ef6bb35e
+Merge: 1065e7c ce44e9e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 17:48:14 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 1065e7c13f630e84968d6d14c0f768faed9ae5a1
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 17:47:58 2022 -0500
+
+    cambios
+
+commit ce44e9ef221dfb91f706d8c943c6056678cf0b7b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 17:37:35 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit 94a399b85b601eacbb2f847250f982fa037c0e65
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 17:34:11 2022 -0500
+
+    cambios
+
+commit 0abad3db09111aaebf02d0acaa3c89015c640e24
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 16:43:10 2022 -0500
+
+    issues sección documentos y solicitante
+
+commit 7e122e5dd28f4fbc0e04bf7a3cbb8a1719901053
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 14:48:13 2022 -0500
+
+    issues sección documentos
+
+commit b677d120bdb5df19a04571f3edfa33ea91c6ce4a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 14:42:44 2022 -0500
+
+    issues sección documentos
+
+commit 7e1aefd4b3a182522b11ccc0c917e17520d3f54e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 14:21:29 2022 -0500
+
+    issues sección documentos
+
+commit cb190c2e69157995d19488a5f4c4a86a03071e20
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 14:19:43 2022 -0500
+
+    issues sección documentos
+
+commit 5d5ab2cfe2f8f69295beea13698db0f6c2cd0c63
+Merge: f503255 919e8a7
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 14:00:51 2022 -0500
+
+    Merge pull request #36 from mramireza272/jcam
+    
+    Jcam
+
+commit 919e8a7e5be9487c4ae3d5e62cdae427693ea9fa
+Merge: fa68f94 f503255
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 13:52:00 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit fa68f9484af256566eecfbd4b59f5a89ef46475a
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 13:51:45 2022 -0500
+
+    FIX se agrega funcionalidad para que hijos sean mayore a cero
+
+commit f503255e65ecb714d0b43ee63067229439d95df4
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 13:50:13 2022 -0500
+
+    issues sección documentos
+
+commit 42c95a33eef67042bb78a1f6a682238368ed73ac
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 13:23:16 2022 -0500
+
+    issues sección documentos
+
+commit 4fd26fdf26079271fb26bc75255943185d98425e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 13:16:42 2022 -0500
+
+    issues sección documentos
+
+commit b0d85bd6dd6e29b1317161db4fd95746b7a1a91e
+Merge: 6f70479 43e4f1d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 13:02:27 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 6f7047917fb2400f5621f38dadf6074ee9738185
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 13:02:18 2022 -0500
+
+    issues sección documentos
+
+commit 43e4f1dc740b6cecc6ec7ef3a91dc71e2ee1f8fb
+Merge: 4d0c918 e060189
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 12:51:56 2022 -0500
+
+    Merge pull request #35 from mramireza272/jcam
+    
+    Jcam
+
+commit e060189b463c8197fecf4324af02e422b3080329
+Merge: 4a1a0fb 4d0c918
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 12:50:49 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 4a1a0fb7dc91aa0124de1a5fa491ac297dbbdf21
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 12:50:42 2022 -0500
+
+    FIX se ajusta formulario 3 ISSUES
+
+commit 15b9934ddfdef2026a312596d85131ba38f8a723
+Merge: 4a57916 4d0c918
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 12:40:02 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 4a5791608f5717ca5692da2b49e8d50b5915357a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 12:39:53 2022 -0500
+
+    issues sección documentos
+
+commit 4d0c9180dc50c434b2115b12c477e99d89fc39fe
+Merge: 02012ad 150e304
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 12:38:31 2022 -0500
+
+    Merge pull request #34 from mramireza272/jcam
+    
+    Jcam
+
+commit 150e3041df65ccc8341b95a7234919565055b00a
+Merge: a30f477 02012ad
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 12:37:40 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit a30f47776887ccc73ab756a4d0d460cf3ea93c32
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 12:37:28 2022 -0500
+
+    FIX se ajusta formulario 3 ISSUES
+
+commit 02012adadd5f24d64cfb5c4ee8f4346209b305d8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 12:17:44 2022 -0500
+
+    issues sección documentos
+
+commit 94aec2def7c56c44ba6d538531a2759bf84945a0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 12:16:52 2022 -0500
+
+    issues sección documentos
+
+commit 15f0c93a74761f892ad50796012b0bcafeac8e27
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 11:58:56 2022 -0500
+
+    issues sección documentos
+
+commit e023f4d4d867d54e112e07f5e5a7fac0056f6362
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 11:53:30 2022 -0500
+
+    issues sección documentos
+
+commit 933cde010828f51463bdd3985742bb43833c12be
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 11:41:28 2022 -0500
+
+    cambios
+
+commit ee7caafaec7e0fe34a7da6b0ce5f26b19239f6a9
+Merge: 08c0108 a694696
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 11:31:04 2022 -0500
+
+    cambios form request
+
+commit 08c0108ddeb0e7567e8507a9dfd03a28fc23f5ae
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 11:29:44 2022 -0500
+
+    cambios
+
+commit a69469634e89cc1d9858305272ae7cf4269894ae
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 11:22:40 2022 -0500
+
+    issues sección documentos
+
+commit b2ec40731f3183004e24e126cc8c73514a49ea44
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 10:56:13 2022 -0500
+
+    issues sección documentos
+
+commit d042fd827d79de2c3669df2fae48b86dddf0a23d
+Merge: ec9256f 067485f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 10:31:18 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit ec9256f032e587a6b0d71a6ded5437cb51aab772
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 12 10:31:00 2022 -0500
+
+    issues sección documentos
+
+commit 067485f0c2dc73b058e6c13c02b487998644ee7a
+Merge: bb3642c 8d49cdf
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 10:20:36 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit bb3642c884d8157ea30bacabdcccfd9a401680f9
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 12 10:20:25 2022 -0500
+
+    cambios
+
+commit 8d49cdfa44e730d600b2cac00b8b64bcbedf6699
+Merge: 5637d80 1204e0d
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 12 10:17:57 2022 -0500
+
+    Merge pull request #33 from mramireza272/jcam
+    
+    FIX routeserviceprovider
+
+commit 1204e0d6a53d8ea738ca0509f4ac8413d10b0bca
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 12 10:16:51 2022 -0500
+
+    FIX routeserviceprovider
+
+commit 5637d8071f28027c62d3048166733a5957231ea8
+Merge: 33d3083 081b403
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Mon Apr 11 17:04:48 2022 -0500
+
+    Merge pull request #32 from mramireza272/jcam
+    
+    Jcam
+
+commit 081b403a4d290bbd9b5a8755aaaa76ae63c37522
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Mon Apr 11 17:04:05 2022 -0500
+
+    FIX force https route
+
+commit 7799b98a16c6f04e5c14c3c9359d1f9262225768
+Merge: e66feb0 33d3083
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Mon Apr 11 11:02:43 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 33d308329804dbbdf250ec26d1c319a9cff16137
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Mon Apr 11 02:08:01 2022 -0500
+
+    tipo de captura subsecuente
+
+commit c24ac227cf15f442216e257ab7f08ee290d691a5
+Merge: 1641497 5267ef0
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 18:56:17 2022 -0500
+
+    Merge pull request #31 from mramireza272/jcam
+    
+    Jcam
+
+commit 5267ef0439124f66f2bd4ba2b2566175a9fc6bb1
+Merge: 2d1229a 1641497
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 18:53:05 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 2d1229ad4e86e271900d8441341c7b4710bed287
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 18:52:59 2022 -0500
+
+    FIX se ajusta script de codigo postal livewire
+
+commit 16414971038d8633688a4fee6705f623c52b7f45
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 10 18:37:59 2022 -0500
+
+    cambios
+
+commit 6b193c0e076ac12d6d8d9c12ac6151c3c06fa901
+Merge: 7c3b792 3bd3e2b
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 17:21:10 2022 -0500
+
+    Merge pull request #30 from mramireza272/jcam
+    
+    Jcam
+
+commit 3bd3e2bfcff86ebc0026f42a3e74c6c9512ca0af
+Merge: 154d568 7c3b792
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 17:19:29 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 154d56855b1173312c2195676a308035ca51b9e4
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Sun Apr 10 17:19:24 2022 -0500
+
+    FIX se ajusta formulario 3 información del negocio
+
+commit 7c3b79257534d4c08fd83971df7c99358b5a4629
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 10 16:24:23 2022 -0500
+
+    issues
+
+commit 0ec188df3e8c329f7a885871f26683b0dad55de4
+Merge: be0dea5 e10d2ca
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Sun Apr 10 15:43:42 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit e10d2caf27265bbe31360fa741808363406358f0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 10 02:16:01 2022 -0500
+
+    tipo de captura subsecuente
+
+commit ee1019446aecd50d2eca5ef7e1d14a1227e54abc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 10 02:06:48 2022 -0500
+
+    tipo de captura subsecuente
+
+commit c1e76d4ff957ddd0fc4271ba48bd0c7b7cf09c70
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Sun Apr 10 01:26:23 2022 -0500
+
+    tipo de captura subsecuente
+
+commit be0dea5df8b9467d37661e60998ed34979d2462b
+Author: Estefania Carreño <estefania_carreno@hacienda.gob.mx>
+Date:   Sun Apr 10 00:54:20 2022 -0500
+
+    secciones show
+
+commit 2465ab850e451506ac28785ffe9861d14a57fcc3
+Merge: a1a4e23 dfcc054
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 20:04:02 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit a1a4e23675f50ccb17c8428cb9a25c2eec2372c0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 20:03:53 2022 -0500
+
+    tipo de captura subsecuente
+
+commit e66feb09818ab300de630ff0188efebc21862709
+Merge: 6832ddd dfcc054
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 19:56:52 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 6832ddd6f4ab65e79bbe4792983ec70b00d96eb2
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 19:56:47 2022 -0500
+
+    FIX first version PDF
+
+commit dfcc054603d76ee87edc8caa2f90bb4f95906a3c
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 19:55:44 2022 -0500
+
+    cambios
+
+commit 33b4272c545d8f51c55b1836c3daf8768274eceb
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Fri Apr 8 19:40:13 2022 -0500
+
+    show
+
+commit 3636d54f123538e97a0f2c10b72c208a8bab32ff
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 19:37:10 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 6b0033bee85b9c8c645d3007988b9fd2e51ec924
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 19:31:12 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 277047eec483832d9c5d634a19eb1b5f0d073a90
+Merge: b87c644 1d3b30f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:56:38 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit b87c6446cd57bc2b81d083f6800253e5cf7b769a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:56:26 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 1d3b30f76227e80fb638058976ea83e5854e6961
+Merge: 07635a8 941a8db
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:53:57 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 07635a82c7400aa0805be161cce0e00a4ad5e20d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:53:43 2022 -0500
+
+    cambios
+
+commit 941a8db9ccd0786f8ee63abd729d56f7ba0745f2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:47:38 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 74c088111b4e52c8375ce5125ba26d327532568a
+Merge: 4cd0309 3222f66
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:39:00 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 4cd030917f7d590bf8ec4f7fc59c12efb1bb91ec
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:36:29 2022 -0500
+
+    tipo de captura subsecuente
+
+commit 3222f665fa668e5a63bdc21389c1bc38db358dd6
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:22:35 2022 -0500
+
+    cambios
+
+commit 9ac36f89511dfe1d9895d1105c0e375691e6e5b3
+Merge: dfe278c b886d55
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:11:43 2022 -0500
+
+    Merge branch 'mergejerson' of https://github.com/mramireza272/bienestar_microtandas into afblmergejemz
+
+commit dfe278c715e498afb0308eea67f61963a8b17593
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:11:32 2022 -0500
+
+    formulario de registro sección 2
+
+commit b886d552bdb7532b444d6a0cf9f2b0f2379242ea
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:10:23 2022 -0500
+
+    cambios
+
+commit 1e0fc35f81a44a4279a737ad49d6367a02a061cf
+Merge: 73dc8bb c3d94b3
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:03:55 2022 -0500
+
+    Merge branch 'afblmergejemz' of https://github.com/mramireza272/bienestar_microtandas into mergejerson
+
+commit 73dc8bb8aabe25fdf7d931ab42314be032dbbab4
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 18:03:00 2022 -0500
+
+    guarda
+
+commit c3d94b33b8f0b590ba578abc065b181651482a58
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:02:59 2022 -0500
+
+    formulario de registro sección 2
+
+commit f2b01cddb32d12e30064f1e6ef928778e683b2d2
+Merge: ced013a f273b86
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 18:02:47 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afblmergejemz
+
+commit f273b86b758fce1b77cbcd9a965229635c4dea2b
+Merge: e83314a 6a36895
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 18:02:33 2022 -0500
+
+    Merge pull request #29 from mramireza272/jcam
+    
+    FIX se ajuast JC informacion de negocion
+
+commit 6a368950375c33fd098698434e2476ee1b84eb9a
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 18:01:15 2022 -0500
+
+    FIX se ajuast JC informacion de negocion
+
+commit ced013a3bdf99035e975030f0aea746db25c7882
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 17:36:20 2022 -0500
+
+    cambios
+
+commit f5304d1eaa578e754575b2c915ad666a9e7b2658
+Merge: e83314a f639327
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 16:56:43 2022 -0500
+
+    cambiuos
+
+commit e83314a8f0bba2e474f145a0735b1c06235407b5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 16:44:10 2022 -0500
+
+    cambios
+
+commit 1e001c982c4962198a505321fbe04b51695fcfc7
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 16:37:59 2022 -0500
+
+    formulario de registro sección 2
+
+commit f63932722940a3d16cfe8cffa61065e36489dd1b
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 15:34:11 2022 -0500
+
+    cambios 220408.1534
+
+commit ef1dc3b0114c068054211744d7d08504af231e1a
+Merge: cac5282 24f9de0
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 14:38:37 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit cac5282c529494145734d9bb72444074554a1834
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 13:50:13 2022 -0500
+
+    cambios
+
+commit c4a1e2ad6eead932327d97514e9d316b184051cf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 13:49:33 2022 -0500
+
+    formulario de registro sección 2
+
+commit 77e0a6db97d02d83713cee132065ee94de18e1f5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 13:42:00 2022 -0500
+
+    formulario de registro sección 2
+
+commit 0f8cb09ef879a231dab0e4211a6a2d3164451a96
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 13:08:30 2022 -0500
+
+    formulario de registro sección 2
+
+commit 24f9de085c9e37b5556b9ddadc073fb196e747f2
+Merge: 0baa78f f285d7c
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 12:47:12 2022 -0500
+
+    Merge pull request #28 from mramireza272/jcam
+    
+    FIX se agrega botond de prueba para generar el PDF
+
+commit 71a83e28eb336bc2d212516b2f5c59cb8ca1c8d9
+Merge: afa5a74 0baa78f
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 12:46:40 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit f285d7c68df20c56bbb74426e0d80377d040e22b
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 12:46:25 2022 -0500
+
+    FIX se agrega botond de prueba para generar el PDF
+
+commit afa5a74975b9534f2b1573eb709108e81d5e9101
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 12:44:49 2022 -0500
+
+    cmabios
+
+commit 0baa78f189bcdd75d9588c036d49b7b8d7a77a55
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 12:10:39 2022 -0500
+
+    cambios
+
+commit f098810ed80b3c0f8e1a07dee63827ae36235d66
+Merge: ec0455c 2297be7
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 12:05:07 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 2297be7a69f6c38444d9be56cfda96ef1acf3dd7
+Merge: d267250 2d4bd6a
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 12:04:38 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit d267250bd833d474726679f2592720ef31838ae8
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 12:04:18 2022 -0500
+
+    cambios
+
+commit ec0455c39923b08012cde4fe33b9c25a3883d20e
+Merge: b3a8b43 2d4bd6a
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 12:03:09 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 2d4bd6a90fc7222af4c9cdd7a016b0eea947c1df
+Merge: 48550a9 43fc52c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 12:01:53 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 48550a98ac577a80606051540c94b81d5f5bbaa6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 12:01:43 2022 -0500
+
+    formulario de registro sección 2
+
+commit b3a8b434d1e8a4e398246b4d53928ccb7aca50d2
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 11:53:22 2022 -0500
+
+    Concluye la maquetación.
+
+commit 43fc52c8d04f2d4e9241dd934bfef0a5262cbf42
+Merge: cfb50f2 060917b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 11:36:45 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit cfb50f2556fa5ffa6f902194563accefa12a9f61
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 11:36:37 2022 -0500
+
+    cambios show 3
+
+commit 060917bd11eb0cec8a4bd709fd1d462c980893b7
+Merge: 4428c36 405f707
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 11:36:02 2022 -0500
+
+    Merge pull request #27 from mramireza272/jcam
+    
+    Jcam
+
+commit 189b207888e27763b44ff27f95a6ddb43c6fb34d
+Merge: 7febfee 4428c36
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 11:35:10 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 7febfeea49060fef0a7e928ce26061def48b543f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 11:35:01 2022 -0500
+
+    formulario de registro sección 2
+
+commit 405f7077bbeeb20598a39f548789b9d4f69cd939
+Merge: a974fab 4428c36
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 11:34:29 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit a974fabc956d67c62bcb954cec72dfb1ed83fa40
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 11:34:24 2022 -0500
+
+    FIX smartWizard
+
+commit 232a6c514c61f39e0fb0820a16a5f3c3ad40dec9
+Merge: 1a870bc 4428c36
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 11:25:44 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 4428c362227f2bd1facb8ffe2776e9264bb5a9e9
+Merge: bf27c13 ffa2b31
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 11:25:06 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit bf27c1365fc092d743b5fe76c151929995cf7d8f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 11:24:45 2022 -0500
+
+    cambios show 2
+
+commit 301aec060fd942958efbe018809bb4771d88968d
+Merge: 73edf82 ffa2b31
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 11:07:52 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 1a870bc70869d37ae71839bb9d1ac998dc0aba2d
+Merge: f838737 ffa2b31
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 11:07:28 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit ffa2b3126264a2e16a5596999ed245b576a6def4
+Merge: 326c38c 948f691
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 11:06:37 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 326c38cc2f2c0f0ffefe7cefde1d09e54c9f9231
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 11:06:14 2022 -0500
+
+    formulario de registro sección 2
+
+commit 73edf82b0076d963c6edcc562af30a40befe4d6b
+Merge: fb10498 948f691
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:59:25 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 948f691bf97701293581405ae30d3c676cdc46af
+Merge: 3e79617 a8b5785
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 10:58:27 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 3e79617baf13fb9e1ebc3f67bb72d588ca192c62
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 10:58:19 2022 -0500
+
+    show 1,6,7
+
+commit 4f502fa720c62685ee611c43dfbfa28b2314392a
+Merge: 2d316dc a8b5785
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 10:56:15 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 2d316dc3d348d5434378a384e4fb941499b57c3d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 10:56:03 2022 -0500
+
+    formulario de registro sección 2
+
+commit fb104980da03e850afcdf95a2fdd5cc27ef6deed
+Merge: 5594028 a8b5785
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:55:01 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit a8b57859b171766e779a2130c8f3133f45361821
+Merge: 319eb66 101d7c7
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 10:54:50 2022 -0500
+
+    Merge pull request #26 from mramireza272/jcam
+    
+    FIX se realiza prueba de autocomplete de CP
+
+commit 1e73ebfa88cb8a6e9d8443f431f987765ec058a2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 10:54:11 2022 -0500
+
+    cambios
+
+commit f838737fff31d3a2a5b908d2e7e4f3ce8ca912fa
+Merge: db5f832 319eb66
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 10:45:12 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit db5f8320ec55786fadf2d2e9ccdc19878fc4cb75
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 10:44:21 2022 -0500
+
+    Modificación de form para ocultar seccion 5 por sexo
+
+commit 55940285e91222b0a8a64fcd23f2f3f30af55d56
+Merge: ea63402 319eb66
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:40:24 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 319eb660553cb41228601059462f575f889dd854
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 10:39:12 2022 -0500
+
+    formulario de registro sección 2
+
+commit ea63402b0f4c65c319f89ef90bcae86e0cd1f50a
+Merge: 1686406 101d7c7
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:30:54 2022 -0500
+
+    Merge branch 'jcam' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 1686406508c02f8fac988cca4af642408ab00e30
+Merge: 8da13dd 71f1904
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:22:25 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 71f19045a6b79a2a74f70228d660882f849df594
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 10:15:14 2022 -0500
+
+    cambios
+
+commit 8da13dd15807c2bd76a49d6a81d30b18521193d7
+Merge: 0d58b2f f0be8d1
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Fri Apr 8 10:07:32 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 101d7c74dae19a0ca4d48b4852668fe198e9d7b3
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 02:59:46 2022 -0500
+
+    FIX se realiza prueba de autocomplete de CP
+
+commit 1148f3e6d53e032cbf57c3ea531151f0dddb1e91
+Merge: 33a8bcd f0be8d1
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 02:06:23 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit f0be8d1b9f86bf4937f0889df3f72b2b11072325
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 02:05:38 2022 -0500
+
+    cambios
+
+commit 33a8bcd1c166e38ea4cce6a8d146da1dfac46dc5
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Fri Apr 8 02:05:14 2022 -0500
+
+    Concluya maquetado
+
+commit 986a24c2cb8127bcdc6b0b0bd40382c530b185af
+Merge: 833c143 16e3795
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 02:00:39 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 16e3795135f0de0012340c3f02d21b0517ba9446
+Merge: ae8ceb3 3ee5aaf
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 02:00:10 2022 -0500
+
+    cambios
+
+commit 833c1439d57bdb3f3dbc53f47eb756aa1df17947
+Merge: b8e1234 3ee5aaf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 02:00:07 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit ae8ceb3c85f5def8846ea30851b647754fe28ed7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 01:59:36 2022 -0500
+
+    cambios
+
+commit 3ee5aaf0e6073a95afb81da4b0aaf538ceb2682b
+Merge: 5cd382d 3705376
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:58:49 2022 -0500
+
+    Merge pull request #25 from mramireza272/jcam
+    
+    Jcam
+
+commit b8e12343eb1a79f62742f3aa1fbaac1a6bc822fe
+Merge: 08d9cd2 5cd382d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 01:58:41 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 08d9cd2a93d9c32d7100bcf0e16be4e19893850a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 01:58:20 2022 -0500
+
+    formulario de registro sección 2
+
+commit 37053761d90e217dc80f10e5a82580b42a4ed2f2
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:58:04 2022 -0500
+
+    FIX issues
+
+commit e3bf8ce71f7ba0ce4df3ec49d2f10605942460d3
+Merge: 1228588 5cd382d
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:53:59 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 1228588d90716cc9fe26087eb6256e7aa3c13199
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:53:05 2022 -0500
+
+    FIX issues tasa e interes
+
+commit 5cd382d8eed2a12a63d6bf946873f9abad4f1b78
+Merge: fb33ac2 b29d1d3
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 01:47:28 2022 -0500
+
+    Merge branch 'afbl' of https://github.com/mramireza272/bienestar_microtandas
+
+commit b29d1d37d5e1b7e7bc5d28ce7f960ca50fec6c97
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 01:44:56 2022 -0500
+
+    formulario de registro sección 2
+
+commit fb33ac2d95a8f0efdbb0c9bce00c737e35546afc
+Merge: ef417bb 94a6a6d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 01:40:23 2022 -0500
+
+    Merge branch 'afbl' of https://github.com/mramireza272/bienestar_microtandas
+
+commit ef417bb57b6adb43908ae1b645ede9e712b309c1
+Merge: 45b96ae 2ac3d49
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 01:39:58 2022 -0500
+
+    camibos
+
+commit 45b96ae822b63d1c9f62810a00ed37b03123a821
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Fri Apr 8 01:39:00 2022 -0500
+
+    cambios
+
+commit 94a6a6d9177e7cf49e7a821fd7aae4876be9405d
+Merge: b890c8d 2ac3d49
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 01:37:59 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit b890c8dadd792299930563473dd777af8a4d9076
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 01:37:41 2022 -0500
+
+    formulario de registro sección 2
+
+commit 2ac3d49a2118e392e966b596bdbce82a1aa1677b
+Merge: 7aaf560 d965018
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:36:45 2022 -0500
+
+    Merge pull request #24 from mramireza272/jcam
+    
+    Jcam
+
+commit d965018ea864d912ad135b1896b068dbffd191cf
+Merge: 698266d 7aaf560
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:36:05 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 698266d017261b1c5b5820651b4af5339df76725
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 01:35:30 2022 -0500
+
+    FIX issues
+
+commit 7aaf5607a610d95ca07405c38e983375113d39d1
+Merge: c12d3c5 eea343a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 00:54:26 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit eea343ae504dbf6ef4bdee4870e5c41920d3de4e
+Merge: e78f31d 207f07f
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 00:47:09 2022 -0500
+
+    Merge pull request #23 from mramireza272/jcam
+    
+    Se ajusta JS para la seccion Informacion de empresa
+
+commit 207f07f1bd900d865290d8ceecbcfeee44ac43ff
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 8 00:46:33 2022 -0500
+
+    Se ajusta JS para la seccion Informacion de empresa
+
+commit c12d3c51d5e4614a35b0460a3444d9cea7689a4b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Fri Apr 8 00:08:39 2022 -0500
+
+    formulario de registro sección 2
+
+commit b7fc69432e8997fd2402b6ac63aed5efd8a0fb5d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 23:56:04 2022 -0500
+
+    formulario de registro sección 2
+
+commit b22012ce43b1e2c8e9d6645dcece04fe1336c9c7
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 22:51:47 2022 -0500
+
+    continua desarrollo
+
+commit 017927a2a4486a883269705e0fe487c5c1b98b37
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 22:50:35 2022 -0500
+
+    Continua desarrollo livewire
+
+commit ab384a3be203eef5c5741cceb84af2f010a547a7
+Merge: 98f377e e78f31d
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 22:47:11 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit e78f31d48ea4cb1481ffac9ae3363c99c61b3ba0
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 22:45:04 2022 -0500
+
+    cambios
+
+commit 28eaccfd42549e5a70c5022eaedccd0e729c7053
+Merge: f3a7bdc 9987168
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 22:43:30 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit f3a7bdcffed806e43b7c2412d38997fcd23111ec
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 22:43:14 2022 -0500
+
+    cambios
+
+commit 98f377eaa1cbc9c85a58fc1dae0ebeeace631b49
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 21:47:38 2022 -0500
+
+    Se avanza en el desarrollo de livewire para eny y mun de nacimiento
+
+commit 0d58b2fc6bd7174d4c14902d1f0d706f6fbd9656
+Merge: fe948cb 9987168
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 21:25:12 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 9987168c721b34823a178a7fb8d23a34b15d9e39
+Merge: 5f456ef 326d52b
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 21:24:56 2022 -0500
+
+    Merge pull request #22 from mramireza272/afbl
+    
+    Afbl
+
+commit 5f456ef37a99c5d789cd81e54826d1fd802caefb
+Merge: 85f7fc1 63373a4
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 21:23:31 2022 -0500
+
+    Merge pull request #21 from mramireza272/jcam
+    
+    Jcam
+
+commit fe948cbc0dc14659cc42d7f13d2f9958d7e6ebe6
+Merge: 0eadac6 326d52b
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 21:23:21 2022 -0500
+
+    Merge branch 'afbl' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 0eadac6389d0baf9571b47d7e7569b9337abbb2a
+Merge: 63373a4 85f7fc1
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 21:23:11 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 326d52b9a108b920e9ee3d13a57e2aa5fe661869
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 21:22:22 2022 -0500
+
+    formulario de registro sección 2
+
+commit 53fc2e7c8c908b0d256f5e5b9336bccd3a4af1b1
+Merge: aed9010 85f7fc1
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 21:20:58 2022 -0500
+
+    formulario de registro sección 2
+
+commit aed9010f85afeb48d1e41ab25a8857e8134bbbf3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 21:19:05 2022 -0500
+
+    formulario de registro sección 2
+
+commit 85f7fc175da02dc876e77a4e7353a6479b2621c2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 21:16:19 2022 -0500
+
+    cambios
+
+commit 848e75786132e5dca9d1f77fc1eafb6138f4a475
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 21:15:42 2022 -0500
+
+    formulario de registro sección 2
+
+commit 294d2de0b133e48bcd73f82e31d45ca2e0d7bb6b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 21:07:53 2022 -0500
+
+    formulario de registro sección 2
+
+commit 63373a4b7159ba7b3f4e15eaccc42aea84f7d378
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 21:05:50 2022 -0500
+
+    Se agrega JS para la pestaña informacion del negocio
+
+commit da1b03ecf3b6c6e6980555e084213b4e4ccf5877
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 20:39:07 2022 -0500
+
+    Se agrega JS para la pestaña informacion del negocio
+
+commit 0bb58c44fe7d1107380b27d5e3c1a1fcbcc06738
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:33:01 2022 -0500
+
+    cambios
+
+commit a8ae6f516aa506cd8dbd24c51beb5da3d17c46f3
+Merge: 1453062 3f1ce25
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:30:39 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 1453062ab529675995487b13a037066ce30657b7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:30:31 2022 -0500
+
+    cambios
+
+commit 3f1ce25453e80098cdf29d34b76134dbc2d8b9fd
+Merge: dea451d a8cfefb
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 20:25:38 2022 -0500
+
+    Merge pull request #20 from mramireza272/jcam
+    
+    Jcam
+
+commit a8cfefbd2a65287d4fe94a1f6aff628f7fb7ef75
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 20:25:22 2022 -0500
+
+    Se agrega JS para la pestaña informacion del negocio
+
+commit 985e1d71ea92e4d7b576cda648d5d79dde1ee274
+Merge: 9fd4a9a dea451d
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 20:24:25 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 9fd4a9a980c85fe89ee0166c444f1eb7b60e785c
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 20:24:16 2022 -0500
+
+    Se agrega JS para la pestaña informacion del negocio
+
+commit dea451d7d7a44bbd811cacaa0ef65b04d0a80f1d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:13:19 2022 -0500
+
+    cambios
+
+commit d9714cd3f03ef78c14e85643a43c2a34734164e8
+Merge: 141c937 754f4f8
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 20:02:37 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 754f4f844c1e02466948eb0b2573ef7d3df14ded
+Merge: 34883c1 8a275e8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 20:01:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 34883c186d1c3bc482f1383110b4c18a719d35dc
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 20:01:04 2022 -0500
+
+    formulario de registro sección 2
+
+commit 141c937fdc4fb604c8d6138131cd6e016b71ba3e
+Merge: f9105a8 8a275e8
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 20:00:57 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 8a275e8f0794654c2edba104d511b49673453a4e
+Merge: 12fa4aa c5d4e27
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:00:24 2022 -0500
+
+    Merge branch 'estefi' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 12fa4aac3ba2e131c94dc73bfd971d354071d11b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 20:00:10 2022 -0500
+
+    cambiuos
+
+commit f9105a81f2f7d9d133d546b2552ca38678ec62e8
+Merge: fcc85ff f39b85d
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 19:59:48 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit c5d4e27eab42c4f7ef4d63d103a6b8021b07ce13
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Thu Apr 7 19:59:28 2022 -0500
+
+    menu
+
+commit f39b85df294bd5413673ca31eec29560e999e3c1
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 19:58:08 2022 -0500
+
+    cambios
+
+commit 5713e3696aa67d920120a6e18d86fb73a8bd9428
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 19:51:07 2022 -0500
+
+    formulario de registro sección 2
+
+commit 107d97914171859882fbd7468d85a3b3b2ffc397
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 19:49:21 2022 -0500
+
+    formulario de registro sección 2
+
+commit b83c9e5b9549da9722393dd803814e1db6e3ebc6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 19:24:45 2022 -0500
+
+    formulario de registro sección 2
+
+commit 6f30d490e8d63ba701083d7297b486f8b5f7fb20
+Merge: a239d81 c87e35f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 19:16:48 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit a239d81c4ea7a8699b444d365dc09a4f5d5268e3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 19:16:28 2022 -0500
+
+    formulario de registro sección 2
+
+commit c87e35f87dc01f7be3ac0f4bbd6e17e77769b933
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 18:06:30 2022 -0500
+
+    cambios
+
+commit fcc85ff68d80395e7034527eb3ec69318cb600d7
+Merge: 94b76f3 14f4c75
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 18:05:43 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 14f4c75971785ebaff91963df7fd5306b0c66586
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 17:58:00 2022 -0500
+
+    cambios
+
+commit 94b76f36485402b500de1c3533049056735a0468
+Merge: 188b5f0 17ee165
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 17:36:33 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 1dc89bda862df635c6f7e7d1454ba0ac5e3938ed
+Merge: 53b2600 17ee165
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 17:32:20 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 53b260082c28396aa1f62777bcd4e63c3ff0905b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 17:32:11 2022 -0500
+
+    formulario de registro sección 2
+
+commit 17ee1655886998b9e1db7fafb426b27f33742d8d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 17:28:54 2022 -0500
+
+    cambios
+
+commit 188b5f0bc9ddcf803c3caecedf1a43fa5799b9c9
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 17:08:10 2022 -0500
+
+    oncluye la maquetación de los formularios 4 y 5.
+
+commit dcec8f8c4991cd8a6249bb213c245b3d47c172bc
+Merge: 405b903 a85b34a
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 14:03:25 2022 -0500
+
+    Merge pull request #19 from mramireza272/jcam
+    
+    Jcam
+
+commit a85b34ac76e7ef249c8ea03671ad4c55baf48152
+Merge: dfff3ba 405b903
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 14:02:36 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit dfff3ba054491e4125ec7d17e64c93c33ae7ebdf
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 14:01:31 2022 -0500
+
+    FIX se retira etiqueta $action
+
+commit 405b9039720185dabe50bc9c9c2d73c50862c2c1
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 14:01:20 2022 -0500
+
+    cambios
+
+commit f43a7900adc796426a50bf8b825a1af270d92dac
+Merge: 198a160 c370109
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Thu Apr 7 14:00:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into estefi
+
+commit c370109d7ac0f8e91a77620b6fc713d31ba5d864
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 13:59:08 2022 -0500
+
+    cambios guardar
+
+commit 198a160229f94f56d0b1580395344318170ca4c9
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Thu Apr 7 13:53:21 2022 -0500
+
+    iconos y botones
+
+commit d9e4c666faabb90ce5da46a23751530cc808be72
+Merge: 3b73495 2946541
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Thu Apr 7 13:52:40 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into estefi
+
+commit 2946541819b4f40d55b250323b93935a2cfc71f9
+Merge: c4f828d 3646fc9
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 13:47:01 2022 -0500
+
+    Merge pull request #18 from mramireza272/jcam
+    
+    Jcam
+
+commit 3646fc972b4e91724252271dfcf0728db95d0b0e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 13:45:40 2022 -0500
+
+    FIX se ajusta FORM update
+
+commit 8c40d43eec7617deee9e2a71f35fba9f507dbeb8
+Merge: f5fccfe c4f828d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 13:40:17 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit f5fccfe92b5fb9c2d22b49e64698bd2bb397cf4d
+Merge: a330e61 f3e72d9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 13:40:06 2022 -0500
+
+    formulario de registro sección 2
+
+commit bfcfc0cc4e7268972eccf81a7ae961989ea832bc
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 13:38:57 2022 -0500
+
+    se avanza en el maquetado del formulario 4
+
+commit 36b7af86b20eff543024b7836510a47522359c84
+Merge: 3a92d37 c4f828d
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 13:18:53 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit c4f828d1674786a9cdc26725fe4f5c301d3484af
+Merge: f3e72d9 d65d74a
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 13:18:14 2022 -0500
+
+    Merge pull request #17 from mramireza272/jcam
+    
+    FIX se agrega catalogo de LenguaIndigena
+
+commit d65d74ad2b20aa6663faa21d414be8e7ee92eefc
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 13:17:49 2022 -0500
+
+    FIX se agrega catalogo de LenguaIndigena
+
+commit 60cf05a935f4617c342fa0347a09e7a5a72bdecd
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 13:16:45 2022 -0500
+
+    FIX se agrega catalogo de LenguaIndigena
+
+commit 3b73495ecaa7c4c5949d928fdc7a25ecc27427cf
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Thu Apr 7 12:46:28 2022 -0500
+
+    iconos menu
+
+commit 3a92d3729a65312237507deef70bdb034dc4e1aa
+Merge: 8db6b35 f3e72d9
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 12:35:01 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into jemz
+
+commit 8db6b3577011c6f5963ce2f62ec93f64315bebd9
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 12:32:36 2022 -0500
+
+    se agrega la maquetación de Mujeres
+
+commit ebb78c25dbcdfcf37f2936417fd9b93ea5ef624b
+Author: Jerson Emmanuel Martínez Zaragoza <jerson.martinez@bienestar.gob.mx>
+Date:   Thu Apr 7 12:09:55 2022 -0500
+
+    Primer commit del formulario de violencia, incluye la primer maquetación
+
+commit a330e61472ca54593064092d9ef4ced242d2abaf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 11:56:36 2022 -0500
+
+    formulario de registro sección 2
+
+commit f3e72d9e8807e09b1912361fb609c54e8e2f98d4
+Merge: ef69f1e f8f2c12
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 11:56:25 2022 -0500
+
+    merge master
+
+commit ef69f1ee1ba7a2505a17076c8c322130ea1b922e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 11:55:27 2022 -0500
+
+    cambios
+
+commit f8f2c12b407a33008948285b9f05fe90e3db5176
+Merge: 9a5fb70 b1d1b35
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 11:54:36 2022 -0500
+
+    Merge pull request #16 from mramireza272/jcam
+    
+    Jcam
+
+commit b1d1b352ffe93cb3a49d3213cc2bc4767fb704e0
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 11:53:44 2022 -0500
+
+    FIX se verifica el guardado de la sección 3 informacion de negocio
+
+commit dd04c10d9c3c95cab77cc7c4251ef16d361e6455
+Merge: b34a706 9a5fb70
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 11:52:48 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 9a5fb701ca708ba50f9205dc27a76bb2c127a466
+Merge: e91f68e 2d3d5c6
+Author: Aldo Fernando Baltazar Lechuga <60363683+aldo-1998@users.noreply.github.com>
+Date:   Thu Apr 7 11:28:00 2022 -0500
+
+    Merge pull request #15 from mramireza272/afbl
+    
+    Sección 2
+
+commit 2d3d5c65c7fa6da34891b620832dd36bcaf405f8
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 11:26:31 2022 -0500
+
+    formulario de registro sección 2
+
+commit b34a706381c8c18eacbdb40ba5b233f119ea83cd
+Merge: 156f6d9 e91f68e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 11:22:26 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit d2987fb54ada98d3a664fe249e74f6184bdb0c22
+Merge: e26ca85 e91f68e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 11:14:51 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit e26ca852cca77ab1de7e7d4a08789d61b8c5a775
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 11:14:17 2022 -0500
+
+    formulario de registro sección 2
+
+commit e91f68e58207ce73e93627e461b73f60bd453313
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 11:07:01 2022 -0500
+
+    cambios
+
+commit 25aa7a286db6d233295b8d777d17be6397599d98
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 10:46:39 2022 -0500
+
+    formulario de registro sección 2
+
+commit 156f6d95660678e26c462264206a1c6a070671e9
+Merge: caf65f2 2e39c5f
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 10:34:19 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 7619340523cd8cd0fc9fbec3203ca0882f67c46e
+Merge: 2199ab3 2e39c5f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 10:31:02 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 2199ab31ef215ccc05f7bf96df1d4c6369e1acca
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Thu Apr 7 10:30:43 2022 -0500
+
+    formulario de registro sección 2
+
+commit 2e39c5f62c29450ec771ad04a63fd58d5b1ad614
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 10:30:05 2022 -0500
+
+    cambios
+
+commit a53eab65a4af39c5d3ed7988c4c3dc2a23b3a1ab
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 10:18:48 2022 -0500
+
+    conectividad blade
+
+commit caf65f291694648b644a8e7390d1afb38807eaa1
+Merge: 3010cb4 d3f5a56
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 09:52:26 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit d3f5a560bbaf7ebb3d7f8d04334c63045f4e61a1
+Merge: 5ce528d 9e4a9b1
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 09:52:19 2022 -0500
+
+    Merge pull request #14 from mramireza272/jcam
+    
+    Jcam
+
+commit 5ce528dc33f47655905d1866ea0b02cf0f2943ef
+Merge: 5c323e5 8ed8ab2
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 09:51:27 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 3010cb48e8860aba3e852bb384ec953b3daa2648
+Merge: 1099c99 8ed8ab2
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 09:51:18 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 5c323e55033014def67ab8246331bed5fcc7938b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Thu Apr 7 09:51:12 2022 -0500
+
+    cambios
+
+commit 8ed8ab2103c406b6255a5d4c3e57a6713907cd43
+Merge: a60249a f87d455
+Author: Aldo Fernando Baltazar Lechuga <60363683+aldo-1998@users.noreply.github.com>
+Date:   Thu Apr 7 09:51:09 2022 -0500
+
+    Merge pull request #13 from mramireza272/afbl
+    
+    Afbl
+
+commit 1099c99b7961b89126a2448424c321164af72ff3
+Merge: eff727d 9e4a9b1
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Thu Apr 7 09:42:43 2022 -0500
+
+    Merge branch 'jcam' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 9e4a9b14c861e9d35b8b6e55fce46f0d486ed06d
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 00:37:17 2022 -0500
+
+    FIX se ajusta form3 informacion_negocio
+
+commit a26eb696a227562613ae3a7feebf46d7a39e694e
+Merge: 684d137 fc34a1e
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 00:31:03 2022 -0500
+
+    FIX se ajusta form3 informacion_negocio
+
+commit 684d137e98c64a507eb3f84f44193fede8ef1b1f
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Thu Apr 7 00:30:10 2022 -0500
+
+    FIX se ajusta form3 informacion_negocio
+
+commit f87d455303bc2022bd963a62c459ca3c71129256
+Merge: aa565e6 a60249a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 22:39:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit a60249af682c5ae5a73489add5ff5d346400bba5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 22:17:37 2022 -0500
+
+    cambios
+
+commit eff727d2f70f06f42992b797557381548a1bccd9
+Merge: fc34a1e c0c493f
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 20:10:33 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit fc34a1ee89fb33b02608a46737164a129a205158
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 20:10:13 2022 -0500
+
+    FIX se agregan campos a Form3 informacion_negocio negocio en local
+
+commit aa565e62d770efb91451ca8cb3673a7049d3763a
+Merge: 8419bc0 c0c493f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:59:16 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit c0c493f284eae8fda480962057da12ac96326443
+Merge: 020b6c4 13f9462
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 19:59:05 2022 -0500
+
+    Merge pull request #11 from mramireza272/jcam
+    
+    FIX se agregan campos a Form3 informacion_negocio
+
+commit 13f9462076da9c899c9a0a07559af25b24d9bd56
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 19:58:24 2022 -0500
+
+    FIX se agregan campos a Form3 informacion_negocio
+
+commit 8419bc06e6569867e6c8cd581e1f29fe50f01b6e
+Merge: 55e8453 020b6c4
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:57:39 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 020b6c41feb376189c31ecd19395b54e94732e63
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:57:25 2022 -0500
+
+    cambios
+
+commit 55e8453e1ce0490ff921d4001c517bcb61bc0424
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:56:27 2022 -0500
+
+    formulario de registro sección 2
+
+commit 8bfdb0b7be7e1bca1c38f115c1daa039521c09d5
+Merge: d48f090 a71b767
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:55:57 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit a71b76700d36b4721a256d5ccddda417829a9155
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:55:44 2022 -0500
+
+    cambios
+
+commit d48f0902c411eccd2ed5519410fbd8ab98122d84
+Merge: 69a8a39 793767b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:54:42 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 793767b2ef9175a66c0d58a2cfc1f2e0908ca8a5
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:53:37 2022 -0500
+
+    cambios
+
+commit 69a8a3964f5a555819d249aa38bd7619f2b0cd74
+Merge: da482df 7c1bedf
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:46:38 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit da482dfe120c80533b700f1ab5409f6a31cb23b4
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 19:46:14 2022 -0500
+
+    formulario de registro sección 2
+
+commit 7c1bedfda66a99c1298f1edd449bb4f77aa8dfc6
+Merge: c9b2498 6b659d7
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Wed Apr 6 19:41:04 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into estefi
+
+commit 6b659d75fb0066e33fc92ddbc6bdb1cbd81fd382
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:40:04 2022 -0500
+
+    cambios
+
+commit c9b2498fee41773761a16c73438768d590325e11
+Author: estefaniacv1 <estefania.cvargas@gmail.com>
+Date:   Wed Apr 6 19:20:35 2022 -0500
+
+    inicio y logos
+
+commit d8557e1a993d36ca012be764f174d477268adc94
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:10:40 2022 -0500
+
+    cambios
+
+commit 3986e55756ba7126e4ebfef06017fd30a9f63231
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:07:18 2022 -0500
+
+    cambios
+
+commit 19c65e2cc1a44306f2293b71facb45facf7f0f89
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:05:53 2022 -0500
+
+    cambios
+
+commit 7f54e64709d8407422ab09e9163af5ac577aa0da
+Merge: bde0a06 4ad2ce0
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:02:20 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit bde0a06ed5d852144dc8b88c0e0d7cf282a5f812
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 19:02:05 2022 -0500
+
+    cambios
+
+commit 8b8af4f47238364af33bbea5adde0a4ec48dd184
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:58:07 2022 -0500
+
+    formulario de registro sección 2
+
+commit bbe1f73e2e30750b8cd7edf669381c12881b428d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:51:36 2022 -0500
+
+    formulario de registro sección 2
+
+commit c33281d4b12704a4f29a6fdaeaf710490ec7391e
+Merge: 0aee965 4ad2ce0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:45:27 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 0aee965f88f466cec3678b645a3cb2d483f0364a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:45:01 2022 -0500
+
+    formulario de registro sección 2
+
+commit 4ad2ce0de8f383961d4ec80422c24dc794ad13fd
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 18:38:42 2022 -0500
+
+    FIX se ajusta ControllerRequest
+
+commit a3ae3fa948e80f4bdc06d78d3de37fc0144120e9
+Merge: e152524 566a2b4
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 18:35:26 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 566a2b4f6f81e6a165a42bc14bfdffea0d2c656c
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 18:24:44 2022 -0500
+
+    cambios
+
+commit f45ad244fee85956d7a1efb8a268ecc3b8a5e526
+Merge: dc7d093 f9f6c68
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 18:23:37 2022 -0500
+
+    cambios
+
+commit 4a9ec45a90962e1b3a228753e9a7880b56b51c1b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:06:26 2022 -0500
+
+    formulario de registro sección 2
+
+commit dc7d0932d0534138187c73cc1103dabe68c022b7
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 18:04:34 2022 -0500
+
+    cambios
+
+commit 572c787c067761ea802e5d4fbd1d208effc12dce
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 18:00:12 2022 -0500
+
+    formulario de registro sección 2
+
+commit e1525240205ba5970dca615474dd20ab9d8448ad
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 17:47:35 2022 -0500
+
+    formulario de registro sección 2
+
+commit 288bc0b4b8c662495cd9173b9f041ecb4a87eb42
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 17:36:45 2022 -0500
+
+    formulario de registro sección 2
+
+commit 44d0b18bc2092763284e77f889dc85736309e740
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 17:21:24 2022 -0500
+
+    formulario de registro sección 1
+
+commit 4950acbbaa97d11120bdc922cad5464bdf835a0f
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 17:11:57 2022 -0500
+
+    formulario de registro sección 1
+
+commit f9f6c68f41faed43259609e49d39721d2926aa10
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Wed Apr 6 16:57:46 2022 -0500
+
+    FIX se renombra catalogo TipoEvaluacion -> TipoValidacion
+
+commit 5930fc4cfa8d91e970a12565c875ec58ca13f3d9
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 16:43:05 2022 -0500
+
+    formulario de registro sección 1
+
+commit 0d33370bf3cc4ef16eaba9e7ee61b97667689e3d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 16:39:35 2022 -0500
+
+    formulario de registro sección 1
+
+commit 63dc7daa64faed712961bddb1de48012204e0bcb
+Merge: e8061b4 4c70995
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 16:35:19 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit e8061b47df71182034029a8d844ac1d83f0eca9a
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 16:34:55 2022 -0500
+
+    formulario de registro sección 1
+
+commit 4c7099548dd304e5e4e35069a08521bc8835bc6e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 14:18:58 2022 -0500
+
+    cambios
+
+commit 498ae16610467a572ac1320c3d026f977873ed02
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 13:29:21 2022 -0500
+
+    formulario de registro sección 1
+
+commit e28d09e315f6286b1572941181ed884c824b453a
+Merge: b1e700f f2c6783
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 13:12:44 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit b1e700ffb7dab2d7af77041cc20cf580e778b556
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 13:12:17 2022 -0500
+
+    formulario de registro sección 1
+
+commit f2c678390af468128ac5c71ad3a21005c674666e
+Merge: a8f109f 0e5fb91
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 12:42:10 2022 -0500
+
+    Merge branch 'afbl' of https://github.com/mramireza272/bienestar_microtandas
+
+commit a8f109f9b5076578ba23b035bc89d0259c387b03
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 12:41:49 2022 -0500
+
+    cambios
+
+commit 0e5fb912e7fc9eb52d750e118a70359b1c58bf89
+Merge: 8092907 c6a1bfb
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 12:23:39 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit c6a1bfbebc88507e4f6f44879eef1b5bf2402c8e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 12:23:13 2022 -0500
+
+    cambios
+
+commit 8092907ceb763be2baaabcdc08e552bef5394de0
+Merge: 60230df 9fd9888
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 12:21:48 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 60230dfec531a5f44c9ddebaefad5ab27bc5dcc3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 12:21:30 2022 -0500
+
+    formulario de registro
+
+commit 565498dcfd7b30321a2c369cb7cc7d618f225256
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 12:13:18 2022 -0500
+
+    formulario de registro
+
+commit 9fd9888b2cce84dd815466d247418f470b23227e
+Merge: 574a8be 133d95a
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 12:12:18 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 574a8be3d3a3c6c87f870c1937dd0ba5b77d679b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 12:12:10 2022 -0500
+
+    cambios
+
+commit ad1e7ab350bc791dbbfec14d3b7ab0010545d3d3
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 12:06:14 2022 -0500
+
+    formulario de registro
+
+commit 133d95a2aac34d5c7a84987823d8b6f736308ed9
+Merge: 51cdb2b 57d0824
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:38:54 2022 -0500
+
+    Merge pull request #10 from mramireza272/jcam
+    
+    Jcam
+
+commit 57d08249baebc5ee2dd335616f16489daf5c4737
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:37:58 2022 -0500
+
+    ADD se agregan catalogos varios
+
+commit ab1d44d60c92724534b00b4e03de1f85afa7566b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 11:26:20 2022 -0500
+
+    formulario de registro
+
+commit 21f8edd8696047cd96111db52b03f4689f9c9db4
+Merge: a797ef3 51cdb2b
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:23:41 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 34769d8ea6526b3d4e5f7c843838182af1cced2d
+Merge: 00ca082 51cdb2b
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 11:17:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 00ca0823eb27a05f952366cf239b37886bec4ef5
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 11:17:11 2022 -0500
+
+    formulario de registro
+
+commit 51cdb2b9a37a92b0e58b23355de9928f1b54bef7
+Merge: acab8eb df0f42d
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 11:15:35 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit acab8eb2e971465ea7a7b548a551ead3e95a3bfd
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 11:15:11 2022 -0500
+
+    cambios
+
+commit df0f42d8e45dad3126d4dd2198427942416ef0f2
+Merge: b9e66a5 f1f76e1
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:08:33 2022 -0500
+
+    Merge pull request #8 from mramireza272/jcam
+    
+    ADD se agregan catalogos varios
+
+commit a797ef3e2a4ef152f1d0150bf5c3af6b18ad0e09
+Merge: f1f76e1 b9e66a5
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:08:24 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit f1f76e17eacbacdf4a6d0273275043ccc847a33d
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 11:07:22 2022 -0500
+
+    ADD se agregan catalogos varios
+
+commit b9e66a5a762835e311fe6c054ce187a36ae37f06
+Merge: 591e2b0 4bb67d0
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 11:04:49 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 591e2b0ecf33bc10f386f8d39c15a8d4c4e3c4de
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 11:03:48 2022 -0500
+
+    cambios
+
+commit 7948ee1de455a39610b5111a5ea6aedee6e005f8
+Merge: 5c4ca9b 4bb67d0
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 10:42:51 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 4bb67d03aeac54263874b49af3bf7600ce3ceaf4
+Merge: f0916b4 7e2eb6a
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 10:24:21 2022 -0500
+
+    Merge pull request #7 from mramireza272/jcam
+    
+    ADD se agrega catalogo Frecuencia, RecibirCapacitacion
+
+commit 7e2eb6a38ca617c04683f40aa6e4d930a8db2bd5
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 10:24:09 2022 -0500
+
+    ADD se agrega catalogo TomaDecisiones, Motivos
+
+commit b0daf6fe8ed369fc2288a9b1c7f92be47cf6c759
+Merge: 248e511 f0916b4
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 10:09:47 2022 -0500
+
+    Merge branch 'master' of github.com:mramireza272/bienestar_microtandas into jcam
+
+commit 248e511b60d5b32e032e745ef64e1f9966180ec4
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 10:09:12 2022 -0500
+
+    ADD se agrega catalogo Frecuencia, RecibirCapacitacion
+
+commit f0916b4bca2f8120150de6c2104ef591341597c0
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 10:02:21 2022 -0500
+
+    cambios
+
+commit e682a79c6ed3ed9a546ce36ba1ce42aaf682f7e3
+Merge: 43481ce fb4836f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 09:55:42 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 43481ce14b8c52dc57e502500f32c054164335ad
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 09:55:34 2022 -0500
+
+    cambios
+
+commit fb4836f3dbdfbd76c701e02b2c88c1d2b94bfc63
+Merge: 84298b4 c65adfb
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 09:48:20 2022 -0500
+
+    Merge pull request #6 from mramireza272/jcam
+    
+    ADD se agrega catalogo MontoOtorgado
+
+commit c65adfb9ea4ffbdb0cd7568e2ac7a1b89478288d
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 09:45:51 2022 -0500
+
+    ADD se agrega catalogo MontoOtorgado
+
+commit 84298b4bb3f8ac5f62f510eaae26888bc9a6f702
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Wed Apr 6 09:30:40 2022 -0500
+
+    cambios
+
+commit 44d92a7f5ef9e329408d965206c16359e2c28bc4
+Merge: 06b65ae 43b73a0
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 01:34:11 2022 -0500
+
+    Merge pull request #5 from mramireza272/jcam
+    
+    ADD se agrega catalago de FuenteIngresos, UtilizaraTanda, UtilizoTand…
+
+commit 43b73a0f8d5639e1d9f75a5aff4404e646142bab
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 01:33:52 2022 -0500
+
+    ADD se agrega catalago de FinanciamientoInstitucion
+
+commit 3e105d5483abf159b9e7855501e8f1ef5033582a
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 01:16:38 2022 -0500
+
+    ADD se agrega catalago de ElLocalEs
+
+commit 786c5bf27b0816a6c452c5e29eeddff9a5053e18
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 01:07:42 2022 -0500
+
+    ADD se agrega catalago de FuenteIngresos, UtilizaraTanda, UtilizoTanda, EstaEnLocal
+
+commit 5c4ca9bc4800c1ed53066c675fd0a6fb763be56b
+Merge: 1420661 06b65ae
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Wed Apr 6 00:15:04 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 06b65aec432b71c5363d1488b03d730f71afc240
+Merge: 2aa7bd6 ce3988d
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 00:13:39 2022 -0500
+
+    Merge pull request #4 from mramireza272/jcam
+    
+    ADD se agrega catalago de subsector
+
+commit ce3988df91bf2a778c96d626d0b574848009a523
+Author: JC <jcarlosalcantara.mtz@gmail.com>
+Date:   Wed Apr 6 00:13:06 2022 -0500
+
+    ADD se agrega catalago de subsector
+
+commit 1420661e016d943993c553d5586aa304ca22cc57
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 23:41:41 2022 -0500
+
+    iconos formulario de registro
+
+commit 1796d787820781bdc8520b060dcdee32d04c6bcb
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 23:38:58 2022 -0500
+
+    iconos formulario de registro
+
+commit f4700d593c3f49d1107d5b1e01c2c671b4f3f2f2
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 23:28:21 2022 -0500
+
+    formulario de registro
+
+commit 36863ba19fc7cca52225595a92d37a26206b7c43
+Merge: e012409 2aa7bd6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 23:16:01 2022 -0500
+
+    formulario de registro
+
+commit e0124095599a6c5579e6bbacd006710eb4807f07
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 23:11:44 2022 -0500
+
+    formulario de registro
+
+commit 2aa7bd679b7bcb65afa1ab0fda9ec8df77770316
+Merge: f0e0530 56a8d7f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 22:59:07 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit f0e0530ede1b72bd1ac924856cc29b247e473bea
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 22:58:41 2022 -0500
+
+    cambios
+
+commit 0254e1ba4b50e8ac1aef77dd8bfd53b0023f49ce
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 21:58:27 2022 -0500
+
+    formulario de registro
+
+commit 56a8d7f66576374a007f32f5bd0aadc3de003733
+Merge: 1a29b7d 63bdb57
+Author: Aldo Fernando Baltazar Lechuga <60363683+aldo-1998@users.noreply.github.com>
+Date:   Tue Apr 5 19:32:37 2022 -0500
+
+    Merge pull request #3 from mramireza272/afbl
+    
+    Merge master
+
+commit 63bdb5714814a17b188f6b71610ecfb748653dab
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 19:31:22 2022 -0500
+
+    merge master
+
+commit 9fb5a61ad65d5108861c93c09b1ce70f9166b7c7
+Merge: 568a432 1a29b7d
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 19:27:56 2022 -0500
+
+    merge master
+
+commit 1a29b7d1ec29ee53c3652ff6b6615b460596ab50
+Merge: a98e6ff 9a29a9d
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 5 19:26:08 2022 -0500
+
+    Merge pull request #2 from mramireza272/jcam
+    
+    ADD se crean catalogos EmpleoRemunerado
+
+commit 9a29a9d523536d0337ddb0d407d3be653f9139dd
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 5 19:25:29 2022 -0500
+
+    ADD se crean catalogos Sector
+
+commit a98e6ff046a914de9707595b4a7dd27abe3a811f
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 19:22:21 2022 -0500
+
+    cambios
+
+commit 568a43283c687e2a9c912050055ed505762a2613
+Merge: 2fd8fd3 19d7957
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 19:01:25 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas into afbl
+
+commit 2fd8fd39b687e2f1615560adbdfc478ae1e3b66e
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 19:01:02 2022 -0500
+
+    separación de formulario
+
+commit 428ffcabeb92dc4605986c5b9cef6326a8828c2e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 5 18:57:51 2022 -0500
+
+    ADD se crean catalogos EmpleoRemunerado
+
+commit 2551603e9bf9198f5bb2a797402ebe0878f52626
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 18:41:00 2022 -0500
+
+    separación de formulario
+
+commit 19d7957961c7a808cb018e76b37bc858d099e224
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 18:39:25 2022 -0500
+
+    cambios
+
+commit ddeac98240abf88cd815e785b4977bfd6dd48fdb
+Merge: 4a6581d 6fcac9b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 18:32:46 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit 4a6581deee376e384ca7234bad2c58f261f74f58
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 18:32:30 2022 -0500
+
+    cambios
+
+commit 6fcac9bbef6746f7b648c29cdd2e03119e588200
+Merge: 0f5a624 b966ca8
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Tue Apr 5 18:27:57 2022 -0500
+
+    Merge pull request #1 from mramireza272/jcam
+    
+    ADD se crean catalogos TipoEvaluacion, EstadoCivil
+
+commit b966ca898053076e05588cb562669ec0aef37ac2
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 5 18:27:29 2022 -0500
+
+    ADD se crean catalogos NivelEstudios, TipoDomicilioParticular, TiempoNegocio
+
+commit 0f5a62440c050db9ce500a1d575437926e63d0a5
+Merge: e9365e6 b6b0abf
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 18:21:21 2022 -0500
+
+    Merge branch 'master' of https://github.com/mramireza272/bienestar_microtandas
+
+commit e9365e63fb38bc97f8b9ec94dafcfa0ce2a28d11
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 18:20:58 2022 -0500
+
+    cambios
+
+commit 026f63ea8983508cdcb30a78b7f62cf477aac4b0
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 5 17:43:55 2022 -0500
+
+    ADD se crean catalogos TipoEvaluacion, EstadoCivil
+
+commit d2d2ee5d5b7e02f703e4a91581e7d6fe80c8a6e6
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 17:00:44 2022 -0500
+
+    separaci+on de formulario
+
+commit e54306706a85794eeb92969dbd2d5d4d82137e7c
+Author: aldo-1998 <aldofernando1998@gmail.com>
+Date:   Tue Apr 5 16:56:29 2022 -0500
+
+    separaci+on de formulario
+
+commit b6b0abf99dfb399eda697040c122bff50021889e
+Author: JC <juan_alcantaram@hacienda.gob.mx>
+Date:   Tue Apr 5 16:53:24 2022 -0500
+
+    FIX seeder se ajustan roles
+
+commit 675a2b44561c298b2e718961ef9ab4bec1f6ac76
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 16:43:08 2022 -0500
+
+    cambios
+
+commit 2dd7b6b04054389ee675eaa5bb5722943f54cb9e
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 14:18:05 2022 -0500
+
+    cambios
+
+commit 80dc35616a18fe505732d1bb4975fc8b630cf655
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 14:15:13 2022 -0500
+
+    cambios
+
+commit a47ffcc2d31eb37807763f5bbd060d3842f53c4b
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 14:14:23 2022 -0500
+
+    cambios
+
+commit 6aa7e21476419046723ad5f73061849070f1a662
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 13:55:17 2022 -0500
+
+    cambios
+
+commit 35a6919605bd72c7be207d56e7617c0068b69181
+Author: Martin Ramirez <mramireza272@gmail.com>
+Date:   Tue Apr 5 13:50:23 2022 -0500
+
+    primer commit

@@ -1,0 +1,15 @@
+commit 4c8a5eb25d5b7919aed9e06a6567e62b34a858ff
+Merge: e35a07e 50011d7
+Author: jalcantaram <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 29 11:54:03 2022 -0500
+
+    FIX se ajusta validaciones de formulario CEAP
+    
+    FIX se ajusta validaciones de formulario CEAP
+
+commit 50011d77eb875b832be870c3251c060922e4688b
+Merge: 7b6af55 e35a07e
+Author: jc <jcarlosalcantara.mtz@gmail.com>
+Date:   Fri Apr 29 11:48:26 2022 -0500
+
+    Merge branch 'main_bienestar' of github.com:mramireza272/bienestar into jcam
