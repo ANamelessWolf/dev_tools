@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+
+<body>
+
+    <div class="archivos">
+        <div class="row">
+            <div class="col-lg-4">
+                <input id="tipoInmueble" type="hidden" value="InmuebleRegistro">
+                <strong>INMUEBLE&nbsp;<span class="text-danger">*</span></strong><br>
+                <small class="help-block text-success text-semibold">Solo se aceptan archivos tipo: JPG,
+                    JPEG</small><br>
+
+            </div>
+            <div class="col-lg-8">
+                <input id="fileupload-Inmueble" type="file" name="file" data-url="http://127.0.0.1:8000/upload"
+                    style="display: inline;" multiple="">
+                <br><br>
+                <div class="progress progress-striped progress-lg">
+                    <div id="progressbarInmueble" style="width: 0%;" class="progress-bar progress-bar-purple">0%</div>
+                </div>
+                <ul id="file-upload-list-Inmueble" class="list-group col-lg-12" style="margin-top: 7px;">
+                    <li class="row list-group-item" id="1ec36e41-6753-4197-a080-0c0686e9154f">
+                        <div class="col-lg-2">
+                            <img class="d-flex mr-3"
+                                src="http://127.0.0.1:8000/download/1ec36e41-6753-4197-a080-0c0686e9154f?thumbnail"
+                                alt="Generic placeholder image" width="60">
+                        </div>
+                        <div class="col-lg-10">
+                            <h5 class="mt-0 mb-1">Inmuebles</h5>
+                            <strong>Nombre de archivo: </strong>test.jpg<br>
+                            Subido el 02/05/2022 a las 12:33 Hrs.<br>
+                            Actualizado el 02/05/2022 a las 12:33 Hrs.<br>
+                            <a target="_blank" class="btn btn-success"
+                                href="http://127.0.0.1:8000/download/1ec36e41-6753-4197-a080-0c0686e9154f">
+                                Descargar
+                            </a>
+                            <button class="btn btn-danger eliminar2 ">
+                                <input type="hidden" class="uuid" value="1ec36e41-6753-4197-a080-0c0686e9154f">
+                                Eliminar
+                            </button>
+                            <input type="hidden" name="doc_Inmueble[]" value="1ec36e41-6753-4197-a080-0c0686e9154f">
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
