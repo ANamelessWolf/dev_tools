@@ -60,7 +60,7 @@ class NumberValidator{
         }
     }
 
-    static ValidateDecimial(input, decimals=2)
+    static ValidateDecimal(input, decimals=2)
     {
         return NumberValidator.Validate(input, true, decimals);
     }
