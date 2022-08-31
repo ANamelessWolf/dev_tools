@@ -2,7 +2,7 @@
     "file": {
         "columns": [ "NAME", "SALARY", "STARTING DATE", "ID", "ACTIVE" ]
     },
-    "tabla": "tmp_employee",
+    "table": "tmp_employee",
     "map":{
         "NAME": "v_name",
         "SALARY": "f_salary",
