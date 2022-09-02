@@ -1,47 +1,33 @@
-import psycopg2
-from tqdm import tqdm
-import utils
-connection = 'development'
-table = 'RegistrosLeenRechazo'
-file = "C:\\Users\\miguel.alanis\\Desktop\\Migracion EXcel\\Inmuebles validados LEEN - 23.08.22.xlsx"
-batchSize = 100
+import sys
+import time
+from datetime import timedelta
+from commands.BaseCommand import BaseCommand
+from commands.ExcelToDbCommand import ExcelToDbCommand
+sys.argv = ["", "export", "-c", "development", "-t", "RegistrosLeenRechazo", "-b", "100", "-f", "C:\\Users\\miguel.alanis\\Desktop\\Migracion EXcel\\Inmuebles validados LEEN - 23.08.22.xlsx"]
+
+argLen = len(sys.argv)
+cmd = " ".join(sys.argv)
+
+start = time.time()
 
 try:
-    table = utils.get_table('RegistrosLeenRechazo')
-
-    conn_string = utils.get_connection_string(connection)
-    if conn_string is None:
-        raise Exception("En el archivo de settings.json, no existe la conexión '" + connection + "'")
-
-    #Se extrae la data del Excel
-    excelData = utils.load_excel(file, table)
-    if len(excelData.keys()) != len(table["map"].keys()):
-        raise Exception("Las columnas mapeadas no coinciden con el archivo de mapeo")
-
-    #Envio a la base de datos    
-    conn = psycopg2.connect(conn_string)
-    with conn.cursor() as cur:
-        try:
-            #Se obtienen los registros de la tabla destino, si no existe se crea
-            exists, records = utils.table_exists(table, cur)
-            if not exists:
-                records = utils.create_table(table, cur)
-            else:
-                utils.validate_table(table, records, cur)
-                utils.truncate_table(table)
-            #Se construye el insert
-            values = []
-            columns = list(excelData.keys())
-            row_count = range(0, len(excelData[columns[0]]))
-            for index in tqdm(row_count, desc="Creando insert values"):
-                row = list(map(lambda x: '' if excelData[x][index] is None else excelData[x][index], columns))
-                values.append("('" + "', '".join(row) + "')")
-                if len(values)== batchSize:
-                    print(values)
-            conn.commit()
-        except Exception as e:
-            conn.rollback()
-
-    print(records)
+    cmd = None
+    #1: Selecciona un comando
+    if sys.argv[1] == "export":
+        cmd = ExcelToDbCommand()
+        cmd.Connection = BaseCommand.get_parameter(sys.argv, "-c")
+        cmd.TableDefinition = BaseCommand.get_parameter(sys.argv, "-t")
+        cmd.BatchSize = BaseCommand.get_optional_parameter(sys.argv, "-b", 100)
+        cmd.ExcelFile = BaseCommand.get_parameter(sys.argv, "-f")
+    else:
+        raise Exception("Comando incorrecto")
+    #2: Ejecuta el commando
+    if cmd is not None:
+        cmd.run()
 except Exception as e:
-    print(e[0])
+    print(str(e))
+
+end = time.time()
+sec = (end - start)
+td = timedelta(seconds=sec)
+print("Tiempo de ejecución " + str(td) + ", proceso finalizado.")
