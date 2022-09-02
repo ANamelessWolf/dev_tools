@@ -4,7 +4,7 @@ import re
 from tqdm import tqdm
 from openpyxl import load_workbook
 from os.path import exists
-from unittest import result
+import psycopg2
 
 def get_connection_string(connection):
     f = open('settings.json', encoding='utf-8')
@@ -18,6 +18,13 @@ def get_connection_string(connection):
         port = data["connections"][connection]["port"]
         conn_string = "dbname=%s user=%s password=%s host=%s port=%s" % (dbname, user, password,host, port)
     return conn_string
+
+def get_connection(connection):
+    conn_string = get_connection_string(connection)
+    if conn_string is None:
+        raise Exception("En el archivo de settings.json, no existe la conexión '" + connection + "'")
+    #Envio a la base de datos    
+    return psycopg2.connect(conn_string)
 
 def load_excel(file, table):
     if not exists(file):
@@ -94,6 +101,24 @@ def validate_table(data, records, cursor):
     if len(missing) > 0:
         drop_table(data, cursor)
         create_table(data, cursor)
+
+def insert(table, data, batchSize, cursor):
+    values = []
+    db_columns = list(table['fields'].keys())
+    excel_columns = list(data.keys())
+    insert = "INSERT INTO "+table['table']+" "+"(" + ", ".join(db_columns)+") VALUES "
+    row_count = range(0, len(data[excel_columns[0]]))
+    for index in tqdm(row_count, desc="Creando valores del insert"):
+        row = list(map(lambda x: '' if data[x][index] is None else data[x][index], excel_columns))
+        values.append("('" + "', '".join(row) + "')")
+        if len(values)== batchSize:
+            sql = insert + ", ".join(values)
+            cursor.execute(sql)
+            values = []
+    if len(values) > 0:
+        sql = insert + ", ".join(values)
+        cursor.execute(sql)
+        values = []
 
 def words_only(value):
     return re.sub(r'[^a-zA-Z]', '', value)
