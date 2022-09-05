@@ -1,6 +1,6 @@
 import json
 import os
-import re
+import transform
 from tqdm import tqdm
 from openpyxl import load_workbook
 from os.path import exists
@@ -57,6 +57,33 @@ def get_table(table_name):
     f = open('tables\\' +table_name+ '.json', encoding='utf-8')
     data = json.load(f)
     return data
+
+def get_catalogues(data, conn):
+    catalogues = {}
+    with conn.cursor() as cursor:
+        for cat in data["catalogues"]:
+            fields = ", ".join(cat["select"])
+            sql = "SELECT " + fields + " FROM " + cat["table"]
+            cursor.execute(sql)
+            records = list(map(lambda x: list(x), cursor.fetchall()))
+            if "transform" in cat:
+                transform_records(cat, records, None)
+            keyColumnIndex = cat["select"].index(cat["key"])
+            catData = {}
+            for row in records:
+                catData[row[keyColumnIndex]] = {}
+                for colIndex in range(len(cat["select"])):
+                    catData[row[keyColumnIndex]][cat["select"][colIndex]] = row[colIndex]
+            catalogues[cat["name"]] = catData
+    return catalogues
+
+def transform_records(data, records, catalogues=None):
+    for tfield in data["transform"]:
+        colIndex = data["select"].index(tfield["field"])
+        action = tfield["method"]
+        trans = getattr(transform, action)
+        for row in records:
+            row[colIndex] = trans(row[colIndex], catalogues)
 
 def table_exists(data, cursor):
     table_name = data['table']
@@ -119,9 +146,6 @@ def insert(table, data, batchSize, cursor):
         sql = insert + ", ".join(values)
         cursor.execute(sql)
         values = []
-
-def words_only(value):
-    return re.sub(r'[^a-zA-Z]', '', value)
 
 def get_extension(file):
     split = os.path.splitext(file)

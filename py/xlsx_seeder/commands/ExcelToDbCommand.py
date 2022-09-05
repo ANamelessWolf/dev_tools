@@ -57,19 +57,28 @@ class ExcelToDbCommand(BaseCommand):
         Args:
             value (file): La ruta del archivo a exportar
         """
-        self._ExcelFile = value                
+        self._ExcelFile = value
+
+    @property
+    def Catalogues(self):
+        """Devuelve los catalogos seleccionados
+        """
+        return self._Catalogues                        
 
     def run(self):
         try:
             #1: Se obtiene la definición de la tabla a exportar
             table = utils.get_table(self.TableDefinition)
+            #1A: Se obtiene el objeto de conexión
+            conn = utils.get_connection(self.Connection)
+            #1B: Se checa si se tienen catálogos
+            self._Catalogues = utils.get_catalogues(table, conn)
             #2: Se extraen los datos del Excel
             excelData = utils.load_excel(self.ExcelFile, table)
             #3: Se revisa que el excel coincida con la definición de la tabla
             if len(excelData.keys()) != len(table["map"].keys()):
                 raise Exception("Las columnas mapeadas no coinciden con el archivo de mapeo")
             #4: Se envian los datos a la base de datos
-            conn = utils.get_connection(self.Connection)
             with conn.cursor() as cur:
                 try:
                     #4.1: Se obtienen los registros de la tabla destino
