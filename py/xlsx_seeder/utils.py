@@ -81,7 +81,7 @@ def transform_records(data, records, catalogues=None):
     for tfield in data["transform"]:
         colIndex = data["select"].index(tfield["field"])
         action = tfield["method"]
-        trans = getattr(transform, action)
+        trans = getattr(data["file"], action)
         for row in records:
             row[colIndex] = trans(row[colIndex], catalogues)
 
