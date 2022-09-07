@@ -91,10 +91,16 @@ class ExcelToDbCommand(BaseCommand):
                         utils.validate_table(table, records, cur)
                         #4.4: Se limpia la tabla
                         utils.truncate_table(table, cur)
-                    #4.5: Se inserta el excel en la base de datos
-                    utils.insert(table, excelData, self.BatchSize, cur)
+                    #4.5: Se obtienen las reglas en caso de usar transform
+                    if "transform" in table and len(table["transform"])>0:
+                        rules = utils.get_transform_rules(table, self.Catalogues)
+                    else:
+                        rules = None
+                    #4.6: Se inserta el excel en la base de datos
+                    utils.insert(table, excelData, self.BatchSize, cur, rules)
                     conn.commit()
                 except Exception as e:
+                    print(e.args[0])        
                     conn.rollback()
         except Exception as e:
             print(e.args[0])

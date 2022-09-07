@@ -81,7 +81,7 @@ def transform_records(data, records, catalogues=None):
     for tfield in data["transform"]:
         colIndex = data["select"].index(tfield["field"])
         action = tfield["method"]
-        trans = getattr(data["file"], action)
+        trans = getattr(transform, action)
         for row in records:
             row[colIndex] = trans(row[colIndex], catalogues)
 
@@ -129,7 +129,20 @@ def validate_table(data, records, cursor):
         drop_table(data, cursor)
         create_table(data, cursor)
 
-def insert(table, data, batchSize, cursor):
+def transform_row(row, rules):
+    for rule in rules:
+        row[rule['colIndex']] = rule['action'](row[rule['colIndex']], rule['data'])
+    return row
+    
+def get_transform_rules(table, data):
+    file_columns = list(table["map"].values())
+    rules = []
+    for tField in table["transform"]:
+        trans = getattr(transform, tField["method"])
+        rules.append( { "colIndex" : file_columns.index(tField['field']), "action": trans, "data": data }) 
+    return rules
+
+def insert(table, data, batchSize, cursor, rules=None):
     values = []
     db_columns = list(table['fields'].keys())
     excel_columns = list(data.keys())
@@ -137,8 +150,12 @@ def insert(table, data, batchSize, cursor):
     row_count = range(0, len(data[excel_columns[0]]))
     for index in tqdm(row_count, desc="Creando valores del insert"):
         row = list(map(lambda x: '' if data[x][index] is None else data[x][index], excel_columns))
-        values.append("('" + "', '".join(row) + "')")
-        if len(values)== batchSize:
+        if rules is not None:
+           row = transform_row(row, rules)
+        rowValue = "('" + "', '".join(row) + "')"
+        rowValue = rowValue.replace("'NULL'", "NULL")
+        values.append(rowValue)
+        if len(values) == batchSize:
             sql = insert + ", ".join(values)
             cursor.execute(sql)
             values = []
