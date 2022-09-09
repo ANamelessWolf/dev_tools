@@ -1,0 +1,4 @@
+*.pyc
+*/*/.vscode/launch.json
+py/xlsx_seeder/tables/*.json
+py/xlsx_seeder/settings.json

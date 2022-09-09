@@ -1,0 +1,26 @@
+{
+    "file": {
+        "columns": [ "NAME", "SALARY", "STARTING DATE", "ID", "ACTIVE" ]
+    },
+    "table": "tmp_employee",
+    "map":{
+        "NAME": "v_name",
+        "SALARY": "f_salary",
+        "STARTING DATE": "d_start_date",
+        "ID": "n_id",
+        "ACTIVE": "b_is_active"
+    },
+    "fields": {
+        "v_name": { "type": "varchar", "length": 50, "nullabe": true },
+        "f_salary": { "type": "varchar", "length": null, "nullabe": true },
+        "d_start_date": { "type": "date", "length": 3, "nullabe": true },
+        "n_id": { "type": "int8", "length": null, "nullabe": false },
+        "b_is_active": { "type": "numeric", "length": 3, "nullabe": true }
+    },
+    "transform": [
+        { "field": "f_salary", "file": "transform", "method": "money_format" }
+    ],
+    "catalogues": [
+        { "name":"job_type", "key":"id", "table":"cat_job_type", "select": [ "id", "job_descripcion" ], "transform": [ ]  }
+    ]
+}

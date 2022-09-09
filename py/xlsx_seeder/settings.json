@@ -1,0 +1,11 @@
+{
+  "connections": {
+    "development": {
+      "dbName": "development",
+      "user": "development",
+      "password": "development22",
+      "host": "172.25.6.194",
+      "port": 5432
+    }
+  }
+}
